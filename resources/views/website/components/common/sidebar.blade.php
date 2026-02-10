@@ -53,34 +53,12 @@
     <div class="mobile-menu d-block d-xl-none">
         <nav class="nav-main mainmenu-nav mt--30">
             <ul class="mainmenu metismenu" id="mobile-menu-active">
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Demos</a>
-                    <ul class="submenu mm-collapse" style="height: 0px;">
-                        <li><a href="index.html">Business One</a></li>
-                        <li><a href="index-two.html">Business Two</a></li>
-                        <li><a href="index-three.html">Business Three</a></li>
-                        <li><a href="index-four.html">Business Four</a></li>
-                        <li><a href="index-five.html">Finance Demo</a></li>
-                        <li><a href="index-six.html">Marketing agency</a></li>
-                        <li><a href="index-seven.html">Business agency</a></li>
-                        <li><a href="index-eight.html">Business Management</a></li>
-                        <li><a href="index-nine.html">Insurance Home</a></li>
-                        <li><a href="index-ten.html">Business Website</a></li>
-                        <li><a href="index-eleven.html">Business Parallax</a></li>
-                        <li><a href="index-twelve.html">Business Video</a></li>
-                        <li><a href="index-thirteen.html">Accountent One</a></li>
-                        <li><a href="index-fourteen.html">Accountent Two</a></li>
-                        <li><a href="index-fifteen.html">HR Website</a></li>
-                        <li><a href="index-sixteen.html">Business Coach</a></li>
-                        <li><a href="index-seventeen.html">SEO Website</a></li>
-                        <li><a href="index-eighteen.html">Technology Demo</a></li>
-                        <li><a href="index-nineteen.html">Business Investment</a></li>
-                        <li><a href="index-twenty.html">Business Partner</a></li>
-                        <li><a href="index-twenty-one.html">Business Intelligence</a></li>
-                    </ul>
+                <li class="">
+                    <a href="#" class="main" aria-expanded="false">Home</a>
+                  
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Onepage</a>
+                    <a href="#" class="main" aria-expanded="false">Products</a>
                     <ul class="submenu mm-collapse" style="height: 0px;">
                         <li><a href="onepage-one.html">Business One</a></li>
                         <li><a href="onepage-two.html">Business Two</a></li>
@@ -105,7 +83,7 @@
                     </ul>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Pages</a>
+                    <a href="#" class="main" aria-expanded="false">Solutions</a>
                     <ul class="submenu mm-collapse" style="height: 0px;">
                         <li><a href="about.html">About
                                 Company</a></li>
@@ -153,7 +131,7 @@
                     </ul>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Services</a>
+                    <a href="#" class="main" aria-expanded="false">Platform</a>
                     <ul class="submenu mm-collapse" style="height: 0px;">
                         <li><a class="mobile-menu-link" href="service.html">Service</a></li>
                         <li><a class="mobile-menu-link" href="service-details.html">Service Details</a></li>
@@ -165,7 +143,7 @@
                     </ul>
                 </li>
                 <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Projects</a>
+                    <a href="#" class="main" aria-expanded="false">OEM/ODM</a>
                     <ul class="submenu mm-collapse">
                         <li><a href="project.html">Project</a>
                         </li>
@@ -203,20 +181,9 @@
                         </li>
                     </ul>
                 </li>
+              
                 <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Shop Pages</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a href="shop.html">Shop</a>
-                        </li>
-                        <li><a href="shop-single.html">Shop
-                                Details</a>
-                        </li>
-                        <li><a href="account.html">Account</a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Blog</a>
+                    <a href="#" class="main" aria-expanded="false">About Us</a>
                     <ul class="submenu mm-collapse">
                         <li><a href="blog-grid.html">Blog Grid</a></li>
                         <li><a href="blog-list.html">Blog List</a></li>

@@ -42,7 +42,7 @@
                                     </li>
 
                                     <li class="main-nav has-dropdown mega-menu">
-                                        <a href="#">Pages</a>
+                                        <a href="#">Products</a>
                                         <div class="rts-mega-menu">
                                             <div class="wrapper">
                                                 <div class="container">
@@ -171,7 +171,7 @@
                                         </div>
                                     </li>
                                     <li class="main-nav has-dropdown mega-menu">
-                                        <a href="#">Service</a>
+                                        <a href="#">Solutions</a>
                                         <div class="rts-mega-menu service-mega-menu-style">
                                             <div class="wrapper">
                                                 <div class="container">
@@ -296,7 +296,7 @@
                                         </div>
                                     </li>
                                     <li class="main-nav has-dropdown mega-menu">
-                                        <a href="#">Project</a>
+                                        <a href="#">Platform</a>
                                         <div class="rts-mega-menu">
                                             <div class="wrapper">
                                                 <div class="container">
@@ -418,7 +418,7 @@
                                         </div>
                                     </li>
                                     <li class="main-nav has-dropdown project-a-after">
-                                        <a href="#">Blog</a>
+                                        <a href="#">OEM/ODM</a>
                                         <ul class="submenu parent-nav">
                                             <li><a href="blog-grid.html">Blog Grid</a></li>
                                             <li><a href="blog-list.html">Blog List</a></li>
@@ -427,7 +427,7 @@
                                         </ul>
                                     </li>
                                     <li class="main-nav has-dropdown project-a-after">
-                                        <a href="#">Contact</a>
+                                        <a href="#">Contact Us</a>
                                         <ul class="submenu parent-nav">
                                             <li><a href="contact.html">Contact</a></li>
                                             <li><a href="contact-2.html">Contact 2</a></li>
