@@ -69,8 +69,8 @@
                             {{ date('Y') }} | Developed by <a>Vibrantick Infotech Solutions</a>
                         </p>
                         <ul>
-                            <li><a href="privacy-policy.html">Privacy Policy</a></li> |
-                            <li><a href="terms-of-condition.html">Terms & Condition</a></li>
+                            <li><a href="#">Privacy Policy</a></li> |
+                            <li><a href="#">Terms & Condition</a></li>
                         </ul>
                     </div>
                 </div>

@@ -1,4 +1,4 @@
-<section class="rts-blog-area rts-section-gapTop">
+<section class="rts-blog-area rts-section-gap">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -25,15 +25,15 @@
                             <div class="swiper-slide">
                                 <!-- single Post blog large -->
                                 <div class="rts-blog-h-2-wrapper">
-                                    <a href="blog-details.html" class="thumbnail">
+                                    <a href="#" class="thumbnail">
                                         <img src="{{ asset('website/images/blog/06.webp') }}" alt="Business_blog">
                                     </a>
                                     <div class="body">
                                         <span>Business Solution / by David Dolean</span>
-                                        <a href="blog-details.html">
+                                        <a href="#">
                                             <h4 class="title">The quick settle tips of the new ages exist </h4>
                                         </a>
-                                        <a class="rts-read-more btn-primary" href="blog-details.html"><i
+                                        <a class="rts-read-more btn-primary" href="#"><i
                                                 class="far fa-arrow-right"></i>Read
                                             More</a>
                                     </div>
@@ -43,15 +43,15 @@
                             <div class="swiper-slide">
                                 <!-- single Post blog large -->
                                 <div class="rts-blog-h-2-wrapper">
-                                    <a href="blog-details.html" class="thumbnail">
+                                    <a href="#" class="thumbnail">
                                         <img src="{{ asset('website/images/blog/05.webp') }}" alt="Business_blog">
                                     </a>
                                     <div class="body">
                                         <span>Business Solution / by David Dolean</span>
-                                        <a href="blog-details.html">
+                                        <a href="#">
                                             <h4 class="title">Transforming Your Approach to Business</h4>
                                         </a>
-                                        <a class="rts-read-more btn-primary" href="blog-details.html"><i
+                                        <a class="rts-read-more btn-primary" href="#"><i
                                                 class="far fa-arrow-right"></i>Read
                                             More</a>
                                     </div>
@@ -61,15 +61,15 @@
                             <div class="swiper-slide">
                                 <!-- single Post blog large -->
                                 <div class="rts-blog-h-2-wrapper">
-                                    <a href="blog-details.html" class="thumbnail">
+                                    <a href="#" class="thumbnail">
                                         <img src="{{ asset('website/images/blog/04.webp') }}" alt="Business_blog">
                                     </a>
                                     <div class="body">
                                         <span>Business Solution / by David Dolean</span>
-                                        <a href="blog-details.html">
+                                        <a href="#">
                                             <h4 class="title">Building a Brand That from Market Leaders</h4>
                                         </a>
-                                        <a class="rts-read-more btn-primary" href="blog-details.html"><i
+                                        <a class="rts-read-more btn-primary" href="#"><i
                                                 class="far fa-arrow-right"></i>Read
                                             More</a>
                                     </div>
@@ -79,15 +79,15 @@
                             <div class="swiper-slide">
                                 <!-- single Post blog large -->
                                 <div class="rts-blog-h-2-wrapper">
-                                    <a href="blog-details.html" class="thumbnail">
+                                    <a href="#" class="thumbnail">
                                         <img src="{{ asset('website/images/blog/06.webp') }}" alt="Business_blog">
                                     </a>
                                     <div class="body">
                                         <span>Business Solution / by David Dolean</span>
-                                        <a href="blog-details.html">
+                                        <a href="#">
                                             <h4 class="title">The quick settle tips of the new ages exist </h4>
                                         </a>
-                                        <a class="rts-read-more btn-primary" href="blog-details.html"><i
+                                        <a class="rts-read-more btn-primary" href="#"><i
                                                 class="far fa-arrow-right"></i>Read
                                             More</a>
                                     </div>
@@ -97,15 +97,15 @@
                             <div class="swiper-slide">
                                 <!-- single Post blog large -->
                                 <div class="rts-blog-h-2-wrapper">
-                                    <a href="blog-details.html" class="thumbnail">
+                                    <a href="#" class="thumbnail">
                                         <img src="{{ asset('website/images/blog/05.webp') }}" alt="Business_blog">
                                     </a>
                                     <div class="body">
                                         <span>Business Solution / by David Dolean</span>
-                                        <a href="blog-details.html">
+                                        <a href="#">
                                             <h4 class="title">Transforming Your Approach to Business</h4>
                                         </a>
-                                        <a class="rts-read-more btn-primary" href="blog-details.html"><i
+                                        <a class="rts-read-more btn-primary" href="#"><i
                                                 class="far fa-arrow-right"></i>Read
                                             More</a>
                                     </div>
@@ -115,15 +115,15 @@
                             <div class="swiper-slide">
                                 <!-- single Post blog large -->
                                 <div class="rts-blog-h-2-wrapper">
-                                    <a href="blog-details.html" class="thumbnail">
+                                    <a href="#" class="thumbnail">
                                         <img src="{{ asset('website/images/blog/04.webp') }}" alt="Business_blog">
                                     </a>
                                     <div class="body">
                                         <span>Business Solution / by David Dolean</span>
-                                        <a href="blog-details.html">
+                                        <a href="#">
                                             <h4 class="title">Building a Brand That from Market Leaders</h4>
                                         </a>
-                                        <a class="rts-read-more btn-primary" href="blog-details.html"><i
+                                        <a class="rts-read-more btn-primary" href="#"><i
                                                 class="far fa-arrow-right"></i>Read
                                             More</a>
                                     </div>

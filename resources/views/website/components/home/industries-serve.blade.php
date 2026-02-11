@@ -1,4 +1,4 @@
-  <section class="industry-service-area">
+  <section class="industry-service-area rts-section-gap">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -13,58 +13,58 @@
                     <div class="service-main-wrapper-list">
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/17.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/01.jpg') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">Leadership Development</h5>
+                                <h5 class="title">Logistics & Transportation</h5>
                             </div>
                         </div>
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/18.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/02.png') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">Construction Business Coaching</h5>
+                                <h5 class="title">Construction & Heavy Equipment</h5>
                             </div>
                         </div>
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/19.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/03.png') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">Internet Companies</h5>
+                                <h5 class="title">School & Staff Transportation</h5>
                             </div>
                         </div>
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/20.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/04.jpg') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">Financial Consulting Services</h5>
+                                <h5 class="title">Financial & Corporate Fleets</h5>
                             </div>
                         </div>
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/21.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/05.jpeg') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">Insurance Agency</h5>
+                                <h5 class="title">Insurance & Risk Management</h5>
                             </div>
                         </div>
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/22.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/06.jpg') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">IT Consulting Services</h5>
+                                <h5 class="title">IT & Technology Companies</h5>
                             </div>
                         </div>
                         <div class="single-service-wrapper">
                             <div class="thumbnail">
-                                <img src="{{ asset('website/images/service/23.webp') }}" alt="service">
+                                <img src="{{ asset('website/images/speciality/07.png') }}" alt="service">
                             </div>
                             <div class="content">
-                                <h5 class="title">Retail Business Consultant</h5>
+                                <h5 class="title">Retail & Distribution</h5>
                             </div>
                         </div>
                     </div>

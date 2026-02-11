@@ -8,8 +8,8 @@
                         <h1 class="title">Your Trusted GPS  <br>  Manufacturer</h1>
                         <p class="desc">Apex is a leading GPS tracker manufacturer delivering reliable, real-time tracking solutions for vehicles, assets, and fleets. </p>
                         <div class="banner-btn-area">
-                            <a href="contact.html" class="rts-btn btn-primary">Get Started</a>
-                            <a href="service.html" class="rts-btn btn-primary two">Our Service</a>
+                            <a href="#" class="rts-btn btn-primary">Get Started</a>
+                            <a href="#" class="rts-btn btn-primary two">Our Service</a>
                         </div>
                     </div>
                 </div>

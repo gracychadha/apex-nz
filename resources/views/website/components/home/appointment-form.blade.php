@@ -49,7 +49,7 @@
                         </div>
                         <div class="main-contact">
                             <span>Work with us</span>
-                            <a href="#">info@Invena.com</a>
+                            <a href="#">info@apex.com</a>
                         </div>
                     </div>
                     <div class="signle-contact">
@@ -58,7 +58,7 @@
                         </div>
                         <div class="main-contact">
                             <span>Our Location</span>
-                            <a href="#">125 Town, United State</a>
+                            <a href="#">125 Town, New Zealand</a>
                         </div>
                     </div>
                 </div>

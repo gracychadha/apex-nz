@@ -1,11 +1,11 @@
-<section class="rts-business-case-area rts-section-gap" dir="ltr">
+<section class="rts-business-case-area rts-section-gapBottom" dir="ltr">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <div class="tite-between-area-8 position-relative">
                     <div class="title-style-one eight left mb--30">
-                        <span class="pre radius-10">RECENT CASE STUDIES </span>
-                        <h2 class="title-two rts-text-anime-style-1">Our Business Cases</h2>
+                        <span class="pre radius-10">OUR PRODUCTS </span>
+                        <h2 class="title-two rts-text-anime-style-1">Advanced GPS Tracking Solutions</h2>
                     </div>
                     <div class="next-prev-area">
                         <div class="swiper-button-next radius-10"><i class="fa-sharp fa-regular fa-arrow-right"></i>
@@ -26,11 +26,11 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="single-case-studies-four">
-                                        <a href="project-details.html" class="thumbnail">
-                                            <img src="{{ asset('website/images/project/07.webp') }}" alt="project">
+                                        <a href="#" class="thumbnail">
+                                            <img src="{{ asset('website/images/products/01.webp') }}" alt="project">
                                         </a>
                                         <div class="inner">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <h3 class="title">Digital Business Solution</h3>
                                                 <span>Business Strategy</span>
                                             </a>
@@ -42,11 +42,11 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-studies-four">
-                                        <a href="project-details.html" class="thumbnail">
-                                            <img src="{{ asset('website/images/project/08.webp') }}" alt="project">
+                                        <a href="#" class="thumbnail">
+                                            <img src="{{ asset('website/images/products/02.webp') }}" alt="project">
                                         </a>
                                         <div class="inner">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <h3 class="title">Marketing Business Solution</h3>
                                                 <span>Business Strategy</span>
                                             </a>
@@ -58,11 +58,11 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-studies-four">
-                                        <a href="project-details.html" class="thumbnail">
-                                            <img src="{{ asset('website/images/project/09.webp') }}" alt="project">
+                                        <a href="#" class="thumbnail">
+                                            <img src="{{ asset('website/images/products/03.webp') }}" alt="project">
                                         </a>
                                         <div class="inner">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <h3 class="title">Best Business Solution</h3>
                                                 <span>Business Strategy</span>
                                             </a>
@@ -74,11 +74,11 @@
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="single-case-studies-four">
-                                        <a href="project-details.html" class="thumbnail">
-                                            <img src="{{ asset('website/images/project/08.webp') }}" alt="project">
+                                        <a href="#" class="thumbnail">
+                                            <img src="{{ asset('website/images/products/04.webp') }}" alt="project">
                                         </a>
                                         <div class="inner">
-                                            <a href="project-details.html">
+                                            <a href="#">
                                                 <h3 class="title">Website Business Solution</h3>
                                                 <span>Business Strategy</span>
                                             </a>
