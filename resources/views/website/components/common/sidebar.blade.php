@@ -2,7 +2,7 @@
     <button class="close-icon-menu" title="Close menu"><i class="far fa-times"></i></button>
     <!-- inner menu area desktop start -->
     <div class="rts-sidebar-menu-desktop">
-        <a class="logo-1" href="index.html"><img class="logo" src="{{ asset('website/images/logo/apex.png') }}"
+        <a class="logo-1" href="#"><img class="logo" src="{{ asset('website/images/logo/apex.png') }}"
                 alt="finbiz_logo"></a>
         <div class="body d-none d-xl-block">
             <p class="disc">
@@ -51,176 +51,103 @@
     </div>
     <!-- mobile menu area start -->
     <div class="mobile-menu d-block d-xl-none">
-        <nav class="nav-main mainmenu-nav mt--30">
-            <ul class="mainmenu metismenu" id="mobile-menu-active">
-                <li class="">
-                    <a href="#" class="main" aria-expanded="false">Home</a>
-                  
-                </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Products</a>
-                    <ul class="submenu mm-collapse" style="height: 0px;">
-                        <li><a href="onepage-one.html">Business One</a></li>
-                        <li><a href="onepage-two.html">Business Two</a></li>
-                        <li><a href="onepage-three.html">Business Three</a></li>
-                        <li><a href="onepage-four.html">Business Four</a></li>
-                        <li><a href="onepage-five.html">Finance Demo</a></li>
-                        <li><a href="onepage-six.html">Marketing agency</a></li>
-                        <li><a href="onepage-seven.html">Business agency</a></li>
-                        <li><a href="onepage-eight.html">Business Management</a></li>
-                        <li><a href="onepage-nine.html">Insurance Home</a></li>
-                        <li><a href="onepage-ten.html">Business Website</a></li>
-                        <li><a href="onepage-eleven.html">Business Parallax</a></li>
-                        <li><a href="onepage-twelve.html">Business Video</a></li>
-                        <li><a href="onepage-thirteen.html">Accountent One</a></li>
-                        <li><a href="onepage-fourteen.html">Accountent Two</a></li>
-                        <li><a href="onepage-fifteen.html">HR Website</a></li>
-                        <li><a href="onepage-sixteen.html">Business Coach</a></li>
-                        <li><a href="onepage-eighteen.html">Technology Demo</a></li>
-                        <li><a href="onepage-nineteen.html">Business Investment</a></li>
-                        <li><a href="onepage-twenty.html">Business Partner</a></li>
-                        <li><a href="onepage-twenty-one.html">Business Intelligence</a></li>
-                    </ul>
-                </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Solutions</a>
-                    <ul class="submenu mm-collapse" style="height: 0px;">
-                        <li><a href="about.html">About
-                                Company</a></li>
-                        <li><a href="service.html">Service</a></li>
-                        <li><a href="service-details.html">Service
-                                Details</a>
-                        </li>
-                        <li><a href="service-details-2.html">Service
-                                Details 2</a>
-                        </li>
-                        <li><a href="project.html">Project</a>
-                        </li>
-                        <li><a href="team.html">Team</a>
-                        </li>
-                        <li><a href="team-details.html">Team
-                                Details</a>
-                        </li>
-                        <li><a href="pricing.html">Pricing</a>
-                        </li>
-                        <li><a href="appoinment.html">Appoinment</a>
-                        </li>
-                        <li><a href="history.html">Our
-                                History</a>
-                        </li>
-                        <li><a href="blog-list.html">Blog
-                                List</a>
-                        </li>
-                        <li><a href="blog-grid.html">Blog
-                                List</a>
-                        </li>
-                        <li><a href="blog-details.html">Blog
-                                Details</a>
-                        </li>
-                        <li><a href="blog-details-2.html">Blog
-                                Details 02</a>
-                        </li>
-                        <li><a href="faq.html">Faq's</a>
-                        <li><a href="career.html">Career</a>
-                        </li>
-                        <li><a href="our-mission.html">Our
-                                Mission</a>
-                        </li>
-                        <li><a href="partners.html">Partners</a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">Platform</a>
-                    <ul class="submenu mm-collapse" style="height: 0px;">
-                        <li><a class="mobile-menu-link" href="service.html">Service</a></li>
-                        <li><a class="mobile-menu-link" href="service-details.html">Service Details</a></li>
-                        <li><a class="mobile-menu-link" href="service-details-2.html">Service Details 2</a></li>
-                        <li><a class="mobile-menu-link" href="service-details-3.html">Service Details 3</a></li>
-                        <li><a class="mobile-menu-link" href="service-details-4.html">Service Details 4</a></li>
-                        <li><a class="mobile-menu-link" href="service-details-5.html">Service Details 5</a></li>
+    <nav class="nav-main mainmenu-nav mt--30">
+        <ul class="mainmenu metismenu" id="mobile-menu-active">
 
-                    </ul>
-                </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">OEM/ODM</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a href="project.html">Project</a>
-                        </li>
-                        <li><a href="project-slider.html">Project
-                                Slider</a></li>
-                        <li><a href="project-slider-2.html">Project
-                                Slider 2</a></li>
-                        <li><a href="project-card-slider.html">Project
-                                Card Slider</a></li>
-                        <li><a href="project-bg-dark.html">Project
-                                Bg Dark</a></li>
-                        <li><a href="project-grid.html">Project
-                                Grid</a></li>
-                        <li><a href="project-grid-col-2.html">Project
-                                Grid Col 2</a></li>
-                        <li><a href="project-slider-grid.html">Grid Slider</a></li>
-                        <li><a href="project-slider-overflow.html">Project Overflow</a>
-                        </li>
-                        <li><a href="project-grid-col-3.html">Project Grid Col 3</a>
-                        </li>
-                        <li><a href="project-bg-dark.html">Project
-                                Hide Content</a></li>
+            <!-- About Us -->
+            <li class="has-droupdown">
+                <a href="#" class="main" aria-expanded="false">About Us</a>
+                <ul class="submenu mm-collapse">
+                    <li><a href="#">Case</a></li>
+                    <li><a href="#">News</a></li>
+                    <li><a href="#">Video</a></li>
+                </ul>
+            </li>
 
+            <!-- Products -->
+            <li class="has-droupdown">
+                <a href="#" class="main" aria-expanded="false">Products</a>
+                <ul class="submenu mm-collapse">
 
-                        <li><a href="project-slider-2.html">Project
-                                Hide
-                                Content wide</a>
-                        </li>
-                        <li><a href="project-grid.html">Project
-                                Card Hover</a>
-                        </li>
-                        <li><a href="project-slider-2.html">Project
-                                Slider Image
-                                Zoom</a>
-                        </li>
-                    </ul>
-                </li>
-              
-                <li class="has-droupdown">
-                    <a href="#" class="main" aria-expanded="false">About Us</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                        <li><a href="blog-list.html">Blog List</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
-                        <li><a href="blog-details-2.html">Blog Details 2</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="contact.html" class="main" aria-expanded="false">Contact Us</a>
-                </li>
-            </ul>
-        </nav>
+                    <!-- Vehicle Tracker -->
+                    <li class="has-droupdown">
+                        <a href="#">Vehicle Tracker</a>
+                        <ul class="submenu mm-collapse">
+                            <li><a href="#">GS10G - 4G 8PIN Tracker</a></li>
+                            <li><a href="#">H29P - 4G Tracker</a></li>
+                            <li><a href="#">GS900 - 4G 300MAH Tracker</a></li>
+                            <li><a href="#">GS12 - 4G Waterproof Tracker</a></li>
+                        </ul>
+                    </li>
 
-        <div class="social-wrapper-one">
-            <ul>
-                <li>
-                    <a href="#" aria-label="Facebook">
-                        <i class="fa-brands fa-facebook-f"></i>
-                    </a>
-                </li>
-                <li>
-                    <a href="#" aria-label="twitter">
-                        <i class="fa-brands fa-twitter"></i>
-                    </a>
-                </li>
-                <li>
-                    <a href="#" aria-label="youtube">
-                        <i class="fa-brands fa-youtube"></i>
-                    </a>
-                </li>
-                <li>
-                    <a href="#" aria-label="linkedin">
-                        <i class="fa-brands fa-linkedin-in"></i>
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
+                    <!-- Asset Tracker -->
+                    <li class="has-droupdown">
+                        <a href="#">Asset Tracker</a>
+                        <ul class="submenu mm-collapse">
+                            <li><a href="#">S20 Pro - 4G TRACKER (LTE/GNSS)</a></li>
+                            <li><a href="#">S20 - 4G Portable 6000MAH</a></li>
+                            <li><a href="#">GS300 - 4G Asset GPS Tracker</a></li>
+                            <li><a href="#">GS18 - 2G Portable 4200MAH</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Video Telematics -->
+                    <li class="has-droupdown">
+                        <a href="#">Video Telematics</a>
+                        <ul class="submenu mm-collapse">
+                            <li><a href="#">H18P - 4G ADAS+DMS</a></li>
+                            <li><a href="#">H20P - 4G ADAS+DMS Dashcam</a></li>
+                            <li><a href="#">ADAS+DSM Advanced Assisted</a></li>
+                        </ul>
+                    </li>
+
+                    <!-- Accessories -->
+                    <li class="has-droupdown">
+                        <a href="#">Accessories</a>
+                        <ul class="submenu mm-collapse">
+                            <li><a href="#">Relay And Socket</a></li>
+                            <li><a href="#">Ultrasonic Oil Level Sensor</a></li>
+                            <li><a href="#">Sound Receiver</a></li>
+                            <li><a href="#">SOS Button</a></li>
+                            <li><a href="#">Capacitance Oil Sensor</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </li>
+
+            <!-- Solutions -->
+            <li class="has-droupdown">
+                <a href="#" class="main" aria-expanded="false">Solutions</a>
+                <ul class="submenu mm-collapse">
+                    <li><a href="#">Vehicle Management</a></li>
+                    <li><a href="#">Asset Management</a></li>
+                    <li><a href="#">Stolen Vehicle Recovery</a></li>
+                    <li><a href="#">Get Free Consultation</a></li>
+                </ul>
+            </li>
+
+            <!-- Platform -->
+            <li class="has-droupdown">
+                <a href="#" class="main" aria-expanded="false">Platform</a>
+                <ul class="submenu mm-collapse">
+                    <li><a href="#">Configuration Tool</a></li>
+                </ul>
+            </li>
+
+            <!-- OEM/ODM -->
+            <li>
+                <a href="#" class="main">OEM/ODM</a>
+            </li>
+
+            <!-- Contact -->
+            <li>
+                <a href="#" class="main">Contact Us</a>
+            </li>
+
+        </ul>
+    </nav>
+</div>
+
     <!-- mobile menu area end -->
 </div>
