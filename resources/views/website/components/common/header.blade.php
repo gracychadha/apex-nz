@@ -10,12 +10,12 @@
                         </div>
                         <div class="left">
                             <div class="mail">
-                                <a href=""><i class="fal fa-envelope"></i>
+                                <a href="#"><i class="fal fa-envelope"></i>
                                     info@apex.com</a>
                             </div>
                             <div class="mail">
-                                <a href="mailto:webmaster@example.com"><i class="fa-solid fa-phone-flip"></i> Hotline:
-                                    +210-8976569</a>
+                                <a href="#"><i class="fa-solid fa-phone-flip"></i> Hotline:
+                                    347-9052</a>
                             </div>
                         </div>
                     </div>
@@ -189,9 +189,7 @@
                                                                                 <h5 class="title">Vehicle Management
                                                                                 </h5>
                                                                                 <p class="details">
-                                                                                    Monitor real-time vehicle location,
-                                                                                    track routes, analyze driver
-                                                                                    behavior,
+                                                                                    Monitor 
                                                                                     and optimize fleet performance with
                                                                                     our advanced GPS tracking system.
                                                                                 </p>
@@ -210,9 +208,7 @@
                                                                             <div class="info">
                                                                                 <h5 class="title">Asset Management</h5>
                                                                                 <p class="details">
-                                                                                    Secure and track valuable assets,
-                                                                                    heavy equipment, and shipments
-                                                                                    with smart GPS devices designed for
+                                                                                    Secure and track GPS devices designed for
                                                                                     accurate monitoring and theft
                                                                                     prevention.
                                                                                 </p>
@@ -237,9 +233,8 @@
                                                                                     Recovery</h5>
                                                                                 <p class="details">
                                                                                     Get instant alerts for unauthorized
-                                                                                    movement and track stolen vehicles
-                                                                                    in real time with rapid recovery
-                                                                                    support and geo-fencing technology.
+                                                                                    movement with rapid recovery
+                                                                                    support  technology.
                                                                                 </p>
                                                                             </div>
                                                                         </div>

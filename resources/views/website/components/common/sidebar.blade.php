@@ -17,7 +17,7 @@
                     <!-- single -->
                     <div class="single">
                         <i class="fas fa-phone-alt"></i>
-                        <a href="#">+8801234566789</a>
+                        <a href="#">347-9052</a>
                     </div>
                     <!-- single ENd -->
                     <!-- single -->
@@ -29,7 +29,7 @@
                     <!-- single -->
                     <div class="single">
                         <i class="fas fa-globe"></i>
-                        <a href="#">www.apex.com</a>
+                        <a href="#">apex.vibrantick.org</a>
                     </div>
                     <!-- single ENd -->
                     <!-- single -->
