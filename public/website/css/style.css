@@ -14023,7 +14023,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 .service-main-wrapper-list .single-service-wrapper .content .title {
     margin: 0;
     padding: 0 30px;
-    font-size: 24px;
+    font-size: 20px;
 }
 @media only screen and (max-width: 575px) {
     .service-main-wrapper-list .single-service-wrapper .content .title {
@@ -17092,7 +17092,7 @@ body.with-sticky-item {
     margin-bottom: 15px;
 }
 .cta-style-10-wrapper .left-side .title {
-    font-size: 60px;
+    font-size: 40px;
     color: #1c2539;
 }
 @media only screen and (max-width: 1199px) {
@@ -20653,6 +20653,7 @@ body.with-sticky-item {
     color: #fff;
     margin-bottom: -2px;
     font-weight: 700;
+    font-size: 30px;
 }
 .counter-bg .single-counter .counter-details p {
     color: #fff;
