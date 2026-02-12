@@ -21,22 +21,20 @@
             <div class="offset-lg-1 col-lg-4">
                 <div class="footer-one-single-wized">
                     <div class="wized-title">
-                        <h5 class="title">Quick Links</h5>
+                        <h5 class="title">Products &amp; Solutions</h5>
                         <img src="{{ asset('website/images/footer/under-title.png') }}" alt="invena_footer">
                     </div>
                     <div class="quick-link-inner">
                         <ul class="links">
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Forum Support</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Help &amp; FAQ</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Contact Us</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Pricing &amp; Plans</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Cookie Policy</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Vehicle </a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Asset</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Personal</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Accessories</a></li>
                         </ul>
                         <ul class="links margin-left-70">
-                            <li><a href="#"><i class="far fa-arrow-right"></i> About Us</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> My Account</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i>Our Company</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i>Service</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Vehicle Solution</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Asset Solution</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Stolen Recovery</a></li>
                         </ul>
                     </div>
                 </div>
@@ -44,16 +42,15 @@
             <div class="offset-lg-1 col-lg-3">
                 <div class="footer-one-single-wized">
                     <div class="wized-title">
-                        <h5 class="title">Our Services</h5>
+                        <h5 class="title">Quick Links</h5>
                         <img src="{{ asset('website/images/footer/under-title.png') }}" alt="invena_footer">
                     </div>
                     <div class="quick-link-inner">
                         <ul class="links">
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Forum Support</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Help &amp; FAQ</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> About Us</a></li>
                             <li><a href="#"><i class="far fa-arrow-right"></i> Contact Us</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Pricing &amp; Plans</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Cookie Policy</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Privacy Policy</a></li>
+                            <li><a href="#"><i class="far fa-arrow-right"></i> Terms & Conditions</a></li>
                         </ul>
                     </div>
                 </div>
