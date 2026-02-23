@@ -8122,7 +8122,7 @@ header.header-three .rts-mega-menu.service-mega-menu-style {
 .rts-mega-menu.service-mega-menu-style .menu-thumb img {
     height: auto;
     object-fit: cover;
-    max-height:300px;
+    max-height: 300px;
 }
 
 header .menu-item-open > a {
@@ -11397,7 +11397,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
     margin-top: 35px;
     flex-wrap: wrap;
     gap: 15px;
-    margin-bottom:20px;
+    margin-bottom: 20px;
 }
 @media only screen and (max-width: 991px) {
     .about-inner-content-two .about-between-wrapper {
@@ -20033,7 +20033,7 @@ body.with-sticky-item {
 .single-case-studies-four {
     position: relative;
     overflow: hidden;
-    background:#e4eaf6;
+    background: #e4eaf6;
 }
 .single-case-studies-four .eye {
     position: absolute;
@@ -21800,11 +21800,11 @@ body.with-sticky-item {
     align-items: center;
     gap: 46px;
 }
-.rts-offer-area .rts-offer-wrapper .tab-content .tab-pane img{
-    min-height:440px;
-    max-height:450px;
-    min-width:783px;
-    max-width:783px;
+.rts-offer-area .rts-offer-wrapper .tab-content .tab-pane img {
+    min-height: 440px;
+    max-height: 450px;
+    min-width: 783px;
+    max-width: 783px;
 }
 @media only screen and (max-width: 991px) {
     .rts-offer-area .rts-offer-wrapper {
@@ -24574,6 +24574,17 @@ body.contact-page .rts-breadcrumb-area .title-area-left {
     border-radius: 6px;
     height: 92px;
     padding: 10px 15px;
+}
+.contact-form-p select {
+    height: 54px;
+    margin-bottom: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(32, 40, 45, 0.2);
+    border-image: initial;
+    border-radius: 6px;
+    padding:0 15px;
+   
 }
 .contact-form-p textarea:focus {
     border: 1px solid var(--color-primary);

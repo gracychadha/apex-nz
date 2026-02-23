@@ -29,7 +29,7 @@
                 <div class="col-lg-12">
                     <div class="header-main-one-wrapper">
                         <div class="thumbnail">
-                            <a href="#">
+                            <a href="{{ route('home') }}">
                                 <img src="{{ asset('website/images/logo/apex.png') }}" alt="invena-logo">
                             </a>
                         </div>
@@ -39,12 +39,34 @@
                                     <li class="main-nav has-dropdown project-a-after">
                                         <a href="#">About Us</a>
                                         <ul class="submenu parent-nav">
-                                            <li><a href="#">Case</a></li>
-                                            <li><a href="#">News</a></li>
-                                            <li><a href="#">Video</a></li>
+                                            <li><a href="{{ route('case-studies') }}">Case</a></li>
+                                            <li><a href="{{ route('news') }}">News</a></li>
+                                            <li><a href="{{ route('videos') }}">Video</a></li>
 
                                         </ul>
                                     </li>
+                                    <li class="main-nav has-dropdown project-a-after">
+                                        <a href="#">Cars</a>
+                                        <ul class="submenu parent-nav">
+                                            <li><a href="{{ route('car-sale') }}">Car Sales</a></li>
+                                            <li><a href="{{ route('car-parts') }}">Car Parts</a></li>
+
+
+
+                                        </ul>
+                                    </li>
+                                    <li class="main-nav has-dropdown project-a-after">
+                                        <a href="#">Farms &amp; Tractors</a>
+                                        <ul class="submenu parent-nav">
+                                            <li><a href="{{ route('tractor-sale') }}">Tractor Sales</a></li>
+                                            <li><a href="{{ route('tractor-part') }}">Tractor Parts</a></li>
+                                            <li><a href="{{ route('farming-supplies') }}">Farming Supplies</a></li>
+
+
+
+                                        </ul>
+                                    </li>
+
                                     <li class="main-nav has-dropdown mega-menu">
                                         <a href="#">Products</a>
                                         <div class="rts-mega-menu">
@@ -189,7 +211,7 @@
                                                                                 <h5 class="title">Vehicle Management
                                                                                 </h5>
                                                                                 <p class="details">
-                                                                                    Monitor 
+                                                                                    Monitor
                                                                                     and optimize fleet performance with
                                                                                     our advanced GPS tracking system.
                                                                                 </p>
@@ -208,7 +230,8 @@
                                                                             <div class="info">
                                                                                 <h5 class="title">Asset Management</h5>
                                                                                 <p class="details">
-                                                                                    Secure and track GPS devices designed for
+                                                                                    Secure and track GPS devices
+                                                                                    designed for
                                                                                     accurate monitoring and theft
                                                                                     prevention.
                                                                                 </p>
@@ -234,7 +257,7 @@
                                                                                 <p class="details">
                                                                                     Get instant alerts for unauthorized
                                                                                     movement with rapid recovery
-                                                                                    support  technology.
+                                                                                    support technology.
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -269,15 +292,15 @@
                                         </div>
                                     </li>
 
-                                    <li class="main-nav has-dropdown project-a-after">
+                                    {{-- <li class="main-nav has-dropdown project-a-after">
                                         <a href="#">Platform</a>
                                         <ul class="submenu parent-nav">
                                             <li><a href="#">Configuration Tool</a></li>
 
                                         </ul>
-                                    </li>
-                                    <li><a href="#">OEM/ODM</a></li>
-                                    <li><a href="#">Contact Us</a> </li>
+                                    </li> --}}
+                                    <li><a href="{{ route('oem-odm-service') }}">OEM/ODM</a></li>
+                                    <li><a href="{{ route('contact-us') }}">Contact Us</a> </li>
                                 </ul>
                             </div>
 

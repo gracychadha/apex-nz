@@ -14,14 +14,8 @@
 @include('website.components.home.about-section')
 {{-- counter --}}
 @include('website.components.home.counter-section') 
-{{-- solution --}}
-{{-- @include('website.components.home.solution') --}}
-
 {{-- industry --}}
 @include('website.components.home.industries-serve')
-
-
-
 {{-- team --}}
 @include('website.components.home.team')
 {{-- appointment form --}}

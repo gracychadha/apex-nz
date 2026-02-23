@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="title-style-four center">
-                    <span class="pre">Easy Business Solution</span>
-                    <h2 class="title rts-text-anime-style-1">What We <span>Do</span></h2>
+                    <span class="pre">Apex Gps Solution</span>
+                    <h2 class="title rts-text-anime-style-1">Why   <span> Choose </span> Us</h2>
                 </div>
             </div>
         </div>
