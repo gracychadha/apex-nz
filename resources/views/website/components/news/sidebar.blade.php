@@ -146,7 +146,7 @@
         </div>
         <div class="wized-body">
             <h5 class="title">Need Help? We Are Here To Help You</h5>
-            <a class="rts-btn btn-primary btn-white" href="contact.html">Contact Us</a>
+            <a class="rts-btn btn-primary btn-white" href="{{ route('contact-us') }}">Contact Us</a>
         </div>
     </div>
     <!-- single wized End -->

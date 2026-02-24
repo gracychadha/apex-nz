@@ -39,3 +39,12 @@ Route::get('/tractor-parts', function () {
 Route::get('/farming-supplies', function () {
     return view('website.pages.farming-supplies');
 })->name('farming-supplies');
+Route::get('/vehicle-tracker-gs105', function () {
+    return view('website.pages.vehicle-tracker-GS105');
+})->name('vehicle-tracker-gs105');
+Route::get('/vehicle-tracker-h29p', function () {
+    return view('website.pages.vehicle-tracker-H29P');
+})->name('vehicle-tracker-h29p');
+Route::get('/vehicle-management', function () {
+    return view('website.pages.vehicle-management');
+})->name('vehicle-management');

@@ -17,16 +17,14 @@
             <div class="col-lg-4 col-md-6 col-md-6 col-sm-12">
                 <div class="single-project-area-main-wrapper-6">
                     <a href="#" class="thumbnail">
-                        <img src="{{ asset('website/images/project/12.webp') }}" alt="project" />
+                        <img src="{{ asset('website/images/case-study/01.jpg') }}" alt="project" />
                     </a>
                     <div class="inner">
-                        <a href="#">
-                            <h4 class="title">Business Growth</h4>
-                        </a>
+                        <h4 class="title">Car Sales & Dealership</h4>
                         <p class="disc">
-                            Growth isn’t just about getting bigger—it’s about getting
-                            better. At we specialize in empowering businesses to and
-                            strategically.
+                            We provide a wide range of new and pre-owned cars with verified quality,
+                            competitive pricing, and complete documentation support to ensure a
+                            smooth and reliable vehicle purchasing experience.
                         </p>
                     </div>
                 </div>
@@ -34,16 +32,14 @@
             <div class="col-lg-4 col-md-6 col-md-6 col-sm-12">
                 <div class="single-project-area-main-wrapper-6">
                     <a href="#" class="thumbnail">
-                        <img src="{{ asset('website/images/project/13.webp') }}" alt="project" />
+                        <img src="{{ asset('website/images/case-study/02.jpg') }}" alt="project" />
                     </a>
                     <div class="inner">
-                        <a href="#">
-                            <h4 class="title">Startup Solution</h4>
-                        </a>
+                        <h4 class="title">Tractor Sales Solutions</h4>
                         <p class="disc">
-                            Growth isn’t just about getting bigger—it’s about getting
-                            better. At we specialize in empowering businesses to and
-                            strategically.
+                            Our tractor solutions are designed for modern farming needs, offering
+                            powerful and fuel-efficient tractors along with expert guidance to help
+                            farmers choose the right machinery.
                         </p>
                     </div>
                 </div>
@@ -51,16 +47,14 @@
             <div class="col-lg-4 col-md-6 col-md-6 col-sm-12">
                 <div class="single-project-area-main-wrapper-6">
                     <a href="#" class="thumbnail">
-                        <img src="{{ asset('website/images/project/14.webp') }}" alt="project" />
+                        <img src="{{ asset('website/images/case-study/03.jpg') }}" alt="project" />
                     </a>
                     <div class="inner">
-                        <a href="#">
-                            <h4 class="title">Growth Manage</h4>
-                        </a>
+                        <h4 class="title">Genuine Spare Parts</h4>
                         <p class="disc">
-                            Growth isn’t just about getting bigger—it’s about getting
-                            better. At we specialize in empowering businesses to and
-                            strategically.
+                            We supply high-quality genuine spare parts for cars and tractors,
+                            ensuring durability, performance, and long-term reliability for all
+                            types of vehicles and agricultural equipment.
                         </p>
                     </div>
                 </div>
@@ -68,16 +62,14 @@
             <div class="col-lg-4 col-md-6 col-md-6 col-sm-12">
                 <div class="single-project-area-main-wrapper-6">
                     <a href="#" class="thumbnail">
-                        <img src="{{ asset('website/images/project/15.webp') }}" alt="project" />
+                        <img src="{{ asset('website/images/case-study/04.jpg') }}" alt="project" />
                     </a>
                     <div class="inner">
-                        <a href="#">
-                            <h4 class="title">Company Skills</h4>
-                        </a>
+                        <h4 class="title">Maintenance & Repair Services</h4>
                         <p class="disc">
-                            Growth isn’t just about getting bigger—it’s about getting
-                            better. At we specialize in empowering businesses to and
-                            strategically.
+                            Our skilled technicians provide professional maintenance and repair
+                            services to keep vehicles running efficiently with advanced tools
+                            and trusted service practices.
                         </p>
                     </div>
                 </div>
@@ -85,37 +77,19 @@
             <div class="col-lg-4 col-md-6 col-md-6 col-sm-12">
                 <div class="single-project-area-main-wrapper-6">
                     <a href="#" class="thumbnail">
-                        <img src="{{ asset('website/images/project/12.webp') }}" alt="project" />
+                        <img src="{{ asset('website/images/case-study/05.jpg') }}" alt="project" />
                     </a>
                     <div class="inner">
-                        <a href="#">
-                            <h4 class="title">Business Growth</h4>
-                        </a>
+                        <h4 class="title">Agricultural Equipment Parts</h4>
                         <p class="disc">
-                            Growth isn’t just about getting bigger—it’s about getting
-                            better. At we specialize in empowering businesses to and
-                            strategically.
+                            From tractor components to farming equipment accessories, we provide
+                            dependable parts that enhance productivity and support modern
+                            agricultural operations.
                         </p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6 col-md-6 col-sm-12">
-                <div class="single-project-area-main-wrapper-6">
-                    <a href="#" class="thumbnail">
-                        <img src="{{ asset('website/images/project/13.webp') }}" alt="project" />
-                    </a>
-                    <div class="inner">
-                        <a href="#">
-                            <h4 class="title">Startup Solution</h4>
-                        </a>
-                        <p class="disc">
-                            Growth isn’t just about getting bigger—it’s about getting
-                            better. At we specialize in empowering businesses to and
-                            strategically.
-                        </p>
-                    </div>
-                </div>
-            </div>
+           
         </div>
     </div>
 </div>

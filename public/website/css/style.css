@@ -6582,7 +6582,7 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .nav-area ul li.main-nav {
-    padding: 40px 0;
+    padding: 15px 0;
     cursor: pointer;
 }
 
@@ -9997,7 +9997,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 }
 
 .partner-breadcrumb {
-    background-image: url(../images/banner/23.webp);
+    background-image: url(../images/banner/case-study.png);
     height: 477px;
 }
 @media only screen and (max-width: 575px) {
@@ -13420,7 +13420,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 
 .banner-inner-service-details-1 {
-    background-image: url(../images/banner/22.webp);
+    background-image: url(../images/car-sale/01.jpg);
     height: 477px;
     display: flex;
     align-items: center;
@@ -15001,7 +15001,8 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
     justify-content: center;
 }
 .partner-breadcrumb .title-area-left {
-    text-align: center;
+    /* text-align: center; */
+     text-align: left; /* for g img set only */
 }
 .partner-breadcrumb .title-area-left .bg-title {
     font-size: 150px;
@@ -20047,7 +20048,7 @@ body.with-sticky-item {
     left: 40px;
     right: 40px;
     bottom: -150px;
-    padding: 27px 40px;
+    padding: 15px 25px ;
     border-left: 8px solid #fff;
     background: var(--color-primary);
     border-radius: 5px;
@@ -20058,7 +20059,7 @@ body.with-sticky-item {
 }
 .single-case-studies-four .inner .title {
     margin-bottom: 10px;
-    font-size: 24px;
+    font-size: 14px;
 }
 @media only screen and (max-width: 991px) {
     .single-case-studies-four .inner .title {
@@ -20291,6 +20292,7 @@ body.with-sticky-item {
 .single-project-area-main-wrapper-6 .inner p.disc {
     margin-bottom: 0;
     font-size: 16px;
+    text-align:justify;
 }
 .single-project-area-main-wrapper-6:hover .thumbnail img {
     transform: scale(1.058);

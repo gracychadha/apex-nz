@@ -39,33 +39,25 @@
                                     <li class="main-nav has-dropdown project-a-after">
                                         <a href="#">About Us</a>
                                         <ul class="submenu parent-nav">
-                                            <li><a href="{{ route('case-studies') }}">Case</a></li>
-                                            <li><a href="{{ route('news') }}">News</a></li>
+                                            <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
+                                            <li><a href="{{ route('news') }}">Latest News</a></li>
                                             <li><a href="{{ route('videos') }}">Video</a></li>
 
                                         </ul>
                                     </li>
                                     <li class="main-nav has-dropdown project-a-after">
-                                        <a href="#">Cars</a>
+                                        <a href="#">Sales</a>
                                         <ul class="submenu parent-nav">
                                             <li><a href="{{ route('car-sale') }}">Car Sales</a></li>
                                             <li><a href="{{ route('car-parts') }}">Car Parts</a></li>
-
-
-
-                                        </ul>
-                                    </li>
-                                    <li class="main-nav has-dropdown project-a-after">
-                                        <a href="#">Farms &amp; Tractors</a>
-                                        <ul class="submenu parent-nav">
                                             <li><a href="{{ route('tractor-sale') }}">Tractor Sales</a></li>
                                             <li><a href="{{ route('tractor-part') }}">Tractor Parts</a></li>
                                             <li><a href="{{ route('farming-supplies') }}">Farming Supplies</a></li>
 
 
-
                                         </ul>
                                     </li>
+
 
                                     <li class="main-nav has-dropdown mega-menu">
                                         <a href="#">Products</a>
@@ -81,22 +73,15 @@
                                                                         Vehicle Tracker
                                                                     </p>
                                                                 </li>
-                                                                <li><a href="#"><i
+                                                                <li><a href="{{ route('vehicle-tracker-gs105') }}"><i
                                                                             class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
                                                                         - 4G 8PIN Tracker</a>
                                                                 </li>
-                                                                <li><a href="#"><i
+                                                                <li><a href="{{ route('vehicle-tracker-h29p') }}"><i
                                                                             class="fa-sharp fa-regular fa-chevron-right"></i>H29P
                                                                         - 4G Tracker</a>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS900
-                                                                        - 4G 300MAH Tracker</a>
-                                                                </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS12
-                                                                        - 4G Waterproof Tracker</a>
-                                                                </li>
+
 
                                                             </ul>
                                                         </div>
@@ -107,21 +92,13 @@
                                                                             class="fa-solid fa-shield-halved"></i>
                                                                         Asset Tracker</p>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>S20
-                                                                        Pro - 4G TRACKER (LTE/GNSS)
-                                                                    </a></li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>S20
-                                                                        - 4G Portable 6000MAH
-                                                                    </a></li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS300
-                                                                        - 4G Asset GPS Tracker
-                                                                    </a></li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS18
-                                                                        - 2G Portable 4200MAH</a>
+                                                                <li><a href="{{ route('vehicle-tracker-gs105') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
+                                                                        - 4G 8PIN Tracker</a>
+                                                                </li>
+                                                                <li><a href="{{ route('vehicle-tracker-h29p') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H29P
+                                                                        - 4G Tracker</a>
                                                                 </li>
 
 
@@ -135,21 +112,15 @@
                                                                         Telematics
                                                                     </p>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H18P
-                                                                        - 4G ADAS+DMS
-                                                                    </a></li>
-
-
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H20P
-                                                                        - 4G ADAS+DMS Dashcam
-                                                                    </a>
+                                                                <li><a href="{{ route('vehicle-tracker-gs105') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
+                                                                        - 4G 8PIN Tracker</a>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>ADAS+DSM
-                                                                        Advanced Assisted</a>
+                                                                <li><a href="{{ route('vehicle-tracker-h29p') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H29P
+                                                                        - 4G Tracker</a>
                                                                 </li>
+
 
                                                             </ul>
                                                         </div>
@@ -160,30 +131,15 @@
                                                                             class="fa-solid fa-screwdriver-wrench"></i>
                                                                         Accessories</p>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>Relay
-                                                                        And Socket
-                                                                    </a>
+                                                                <li><a href="{{ route('vehicle-tracker-gs105') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
+                                                                        - 4G 8PIN Tracker</a>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>Ultrasonic
-                                                                        Oil Level Sensor
-                                                                    </a>
+                                                                <li><a href="{{ route('vehicle-tracker-h29p') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H29P
+                                                                        - 4G Tracker</a>
                                                                 </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>Sound
-                                                                        Receiver
-                                                                    </a>
-                                                                </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>
-                                                                        SOS Button
-                                                                    </a>
-                                                                </li>
-                                                                <li><a href="#"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>
-                                                                        Capacitance Oil Sensor</a>
-                                                                </li>
+
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -201,7 +157,7 @@
                                                         <div class="col-lg-4">
                                                             <ul class="mega-menu-item parent-nav">
                                                                 <li>
-                                                                    <a href="#">
+                                                                    <a href="{{ route('vehicle-management') }}">
                                                                         <div class="single-service-menu">
                                                                             <div class="icon">
                                                                                 <img src="{{ asset('website/images/service/04.svg') }}"
@@ -221,7 +177,7 @@
                                                                 </li>
 
                                                                 <li>
-                                                                    <a href="#">
+                                                                    <a href="{{ route('vehicle-management') }}">
                                                                         <div class="single-service-menu">
                                                                             <div class="icon">
                                                                                 <img src="{{ asset('website/images/service/05.svg') }}"
@@ -245,7 +201,7 @@
                                                         <div class="col-lg-4">
                                                             <ul class="mega-menu-item parent-nav">
                                                                 <li>
-                                                                    <a href="#">
+                                                                    <a href="{{ route('vehicle-management') }}">
                                                                         <div class="single-service-menu">
                                                                             <div class="icon">
                                                                                 <img src="{{ asset('website/images/service/06.svg') }}"

@@ -21,7 +21,7 @@
 {{-- appointment form --}}
 @include('website.components.home.appointment-form')
 {{-- case study -> product --}}
-@include('website.components.home.case-study')
+@include('website.components.home.product')
 {{-- testimonial --}}
 @include('website.components.home.testimonial')
 {{-- blog --}}

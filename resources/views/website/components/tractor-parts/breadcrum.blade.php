@@ -7,7 +7,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="title-area-left">
-                                    <span class="bg-title ">Tractor Parts </span>
+                                    <span class="bg-title ">Tractor  </span>
                                     <h1 class="title rts-text-anime-style-1">
                                         Tractor Parts
                                     </h1>

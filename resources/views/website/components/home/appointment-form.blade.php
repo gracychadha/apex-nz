@@ -40,7 +40,7 @@
                         </div>
                         <div class="main-contact">
                             <span>Call Us 24/7</span>
-                            <a href="#">(+256) 2145.2156</a>
+                            <a href="tel:3479052">3479052</a>
                         </div>
                     </div>
                     <div class="signle-contact">

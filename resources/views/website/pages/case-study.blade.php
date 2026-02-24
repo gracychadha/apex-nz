@@ -3,7 +3,7 @@
 @section('content')
 
 
-    {{-- breadcrum --}}
+    {{-- breadcrumb --}}
     @include('website.components.case-study.breadcrum')
 
     {{-- case study grid --}}
