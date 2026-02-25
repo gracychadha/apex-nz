@@ -52,5 +52,5 @@ Route::get('/privacy-policy', function () {
     return view('website.pages.privacy-policy');
 })->name('privacy-policy');
 Route::get('/terms-conditions', function () {
-    return view('website.pages.terms-conditions');
+    return view('website.pages.Terms-conditions');
 })->name('terms-conditions');
