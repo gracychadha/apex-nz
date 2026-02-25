@@ -58,9 +58,19 @@
             <li class="has-droupdown">
                 <a href="#" class="main" aria-expanded="false">About Us</a>
                 <ul class="submenu mm-collapse">
-                    <li><a href="#">Case</a></li>
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Video</a></li>
+                    <li><a href="{{ route('case-studies') }}">Case</a></li>
+                    <li><a href="{{ route('news') }}">News</a></li>
+                    <li><a href="{{ route('videos') }}">Video</a></li>
+                </ul>
+            </li>
+            <li class="has-droupdown">
+                <a href="#" class="main" aria-expanded="false">Sales</a>
+                <ul class="submenu mm-collapse">
+                    <li><a href="{{ route('car-sale') }}">Car Sales</a></li>
+                    <li><a href="{{ route('car-parts') }}">Car Parts</a></li>
+                    <li><a href="{{ route('tractor-sale') }}">Tractor Sales</a></li>
+                    <li><a href="{{ route('tractor-part') }}">Tractor Parts</a></li>
+                    <li><a href="{{ route('farming-supplies') }}">Farming Supplies</a></li>
                 </ul>
             </li>
 
@@ -73,10 +83,19 @@
                     <li class="has-droupdown">
                         <a href="#">Vehicle Tracker</a>
                         <ul class="submenu mm-collapse">
-                            <li><a href="#">GS10G - 4G 8PIN Tracker</a></li>
-                            <li><a href="#">H29P - 4G Tracker</a></li>
-                            <li><a href="#">GS900 - 4G 300MAH Tracker</a></li>
-                            <li><a href="#">GS12 - 4G Waterproof Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS10G - 4G 8PIN Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">H29P - 4G Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS900 - 4G 300MAH Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS12 - 4G Waterproof Tracker</a></li>
+                        </ul>
+                    </li>
+                    <li class="has-droupdown">
+                        <a href="#">Vehicle Tracker</a>
+                        <ul class="submenu mm-collapse">
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS10G - 4G 8PIN Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">H29P - 4G Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS900 - 4G 300MAH Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS12 - 4G Waterproof Tracker</a></li>
                         </ul>
                     </li>
 
@@ -84,10 +103,10 @@
                     <li class="has-droupdown">
                         <a href="#">Asset Tracker</a>
                         <ul class="submenu mm-collapse">
-                            <li><a href="#">S20 Pro - 4G TRACKER (LTE/GNSS)</a></li>
-                            <li><a href="#">S20 - 4G Portable 6000MAH</a></li>
-                            <li><a href="#">GS300 - 4G Asset GPS Tracker</a></li>
-                            <li><a href="#">GS18 - 2G Portable 4200MAH</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">S20 Pro - 4G TRACKER (LTE/GNSS)</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">S20 - 4G Portable 6000MAH</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS300 - 4G Asset GPS Tracker</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">GS18 - 2G Portable 4200MAH</a></li>
                         </ul>
                     </li>
 
@@ -95,9 +114,9 @@
                     <li class="has-droupdown">
                         <a href="#">Video Telematics</a>
                         <ul class="submenu mm-collapse">
-                            <li><a href="#">H18P - 4G ADAS+DMS</a></li>
-                            <li><a href="#">H20P - 4G ADAS+DMS Dashcam</a></li>
-                            <li><a href="#">ADAS+DSM Advanced Assisted</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">H18P - 4G ADAS+DMS</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">H20P - 4G ADAS+DMS Dashcam</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">ADAS+DSM Advanced Assisted</a></li>
                         </ul>
                     </li>
 
@@ -105,11 +124,11 @@
                     <li class="has-droupdown">
                         <a href="#">Accessories</a>
                         <ul class="submenu mm-collapse">
-                            <li><a href="#">Relay And Socket</a></li>
-                            <li><a href="#">Ultrasonic Oil Level Sensor</a></li>
-                            <li><a href="#">Sound Receiver</a></li>
-                            <li><a href="#">SOS Button</a></li>
-                            <li><a href="#">Capacitance Oil Sensor</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">Relay And Socket</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">Ultrasonic Oil Level Sensor</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">Sound Receiver</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">SOS Button</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}">Capacitance Oil Sensor</a></li>
                         </ul>
                     </li>
 
@@ -120,29 +139,23 @@
             <li class="has-droupdown">
                 <a href="#" class="main" aria-expanded="false">Solutions</a>
                 <ul class="submenu mm-collapse">
-                    <li><a href="#">Vehicle Management</a></li>
-                    <li><a href="#">Asset Management</a></li>
-                    <li><a href="#">Stolen Vehicle Recovery</a></li>
-                    <li><a href="#">Get Free Consultation</a></li>
+                    <li><a href="{{ route('vehicle-management') }}">Vehicle Management</a></li>
+                    <li><a href="{{ route('vehicle-management') }}">Asset Management</a></li>
+                    <li><a href="{{ route('vehicle-management') }}">Stolen Vehicle Recovery</a></li>
+                    <li><a href="{{ route('vehicle-management') }}">Get Free Consultation</a></li>
                 </ul>
             </li>
 
-            <!-- Platform -->
-            <li class="has-droupdown">
-                <a href="#" class="main" aria-expanded="false">Platform</a>
-                <ul class="submenu mm-collapse">
-                    <li><a href="#">Configuration Tool</a></li>
-                </ul>
-            </li>
+            
 
             <!-- OEM/ODM -->
             <li>
-                <a href="#" class="main">OEM/ODM</a>
+                <a href="{{ route('oem-odm-service') }}" class="main">OEM/ODM</a>
             </li>
 
             <!-- Contact -->
             <li>
-                <a href="#" class="main">Contact Us</a>
+                <a href="{{ route('contact-us') }}" class="main">Contact Us</a>
             </li>
 
         </ul>
