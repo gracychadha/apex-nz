@@ -36,7 +36,7 @@
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
                                     <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/03.webp') }}">
+                                        <img src="{{ asset('website/images/car-sale/02.jpg') }}">
                                     </a>
                                     <div class="inner-content">
                                         <h4 class="title">Toyota Fortuner</h4>
@@ -48,7 +48,7 @@
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
                                     <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/04.webp') }}">
+                                        <img src="{{ asset('website/images/car-sale/03.jpg') }}">
                                     </a>
                                     <div class="inner-content">
                                         <h4 class="title">Hyundai Creta</h4>
@@ -57,26 +57,27 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/05.webp') }}">
-                                    </a>
-                                    <div class="inner-content">
-                                        <h4 class="title">Mahindra Scorpio N</h4>
-                                        <span>Starting ₹13.8 Lakh</span>
-                                    </div>
-                                </div>
-                            </div>
+
 
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
                                     <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/06.webp') }}">
+                                        <img src="{{ asset('website/images/car-sale/05.jpg') }}">
                                     </a>
                                     <div class="inner-content">
                                         <h4 class="title">Kia Seltos</h4>
                                         <span>Starting ₹10.9 Lakh</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="single-project-style-three">
+                                    <a href="#" class="thumbnail">
+                                        <img src="{{ asset('website/images/car-sale/04.jpg') }}">
+                                    </a>
+                                    <div class="inner-content">
+                                        <h4 class="title">Mahindra Scorpio N</h4>
+                                        <span>Starting ₹13.8 Lakh</span>
                                     </div>
                                 </div>
                             </div>
@@ -91,20 +92,12 @@
 
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/03.webp') }}">
+                                    <a href="#" class="thumbnail">
+                                        <img src="{{ asset('website/images/car-sale/02.jpg') }}">
+                                    </a>
                                     <div class="inner-content">
                                         <h4 class="title">Toyota Fortuner</h4>
-                                        <span>Diesel Automatic</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/04.webp') }}">
-                                    <div class="inner-content">
-                                        <h4 class="title">Toyota Innova Crysta</h4>
-                                        <span>Family MPV</span>
+                                        <span>Starting ₹33.5 Lakh</span>
                                     </div>
                                 </div>
                             </div>
@@ -117,22 +110,14 @@
                     <div class="tab-pane fade" id="contact">
                         <div class="row g-5 mt--10">
 
-                            <div class="col-lg-6">
+                              <div class="col-lg-6">
                                 <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/05.webp') }}">
+                                    <a href="#" class="thumbnail">
+                                        <img src="{{ asset('website/images/car-sale/03.jpg') }}">
+                                    </a>
                                     <div class="inner-content">
                                         <h4 class="title">Hyundai Creta</h4>
-                                        <span>Petrol & Diesel Options</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/06.webp') }}">
-                                    <div class="inner-content">
-                                        <h4 class="title">Hyundai Venue</h4>
-                                        <span>Compact SUV</span>
+                                        <span>Starting ₹11 Lakh</span>
                                     </div>
                                 </div>
                             </div>
@@ -147,7 +132,7 @@
 
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/03.webp') }}">
+                                    <img src="{{ asset('website/images/car-sale/06.jpg') }}">
                                     <div class="inner-content">
                                         <h4 class="title">Tata Curvv</h4>
                                         <span>Launching Soon 2026</span>
@@ -155,15 +140,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/04.webp') }}">
-                                    <div class="inner-content">
-                                        <h4 class="title">Mahindra BE.05</h4>
-                                        <span>Electric SUV</span>
-                                    </div>
-                                </div>
-                            </div>
+                           
 
                         </div>
                     </div>

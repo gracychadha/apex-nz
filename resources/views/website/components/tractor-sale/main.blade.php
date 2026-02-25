@@ -36,7 +36,7 @@
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
                                     <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/03.webp') }}">
+                                        <img src="{{ asset('website/images/car-sale/09.jpg') }}">
                                     </a>
                                     <div class="inner-content">
                                         <h4 class="title">Mahindra 575 DI</h4>
@@ -48,7 +48,7 @@
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
                                     <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/04.webp') }}">
+                                        <img src="{{ asset('website/images/car-sale/10.jpg') }}">
                                     </a>
                                     <div class="inner-content">
                                         <h4 class="title">Swaraj 744 FE</h4>
@@ -57,29 +57,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/05.webp') }}">
-                                    </a>
-                                    <div class="inner-content">
-                                        <h4 class="title">John Deere 5310</h4>
-                                        <span>Advanced Field Performance</span>
-                                    </div>
-                                </div>
-                            </div>
 
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <a href="#" class="thumbnail">
-                                        <img src="{{ asset('website/images/project/06.webp') }}">
-                                    </a>
-                                    <div class="inner-content">
-                                        <h4 class="title">New Holland 3630 TX</h4>
-                                        <span>Heavy Duty Farming Use</span>
-                                    </div>
-                                </div>
-                            </div>
 
                         </div>
                     </div>
@@ -91,20 +69,12 @@
 
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/03.webp') }}">
+                                    <a href="#" class="thumbnail">
+                                        <img src="{{ asset('website/images/car-sale/09.jpg') }}">
+                                    </a>
                                     <div class="inner-content">
-                                        <h4 class="title">Mahindra 475 DI</h4>
-                                        <span>Best for Cultivation</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/04.webp') }}">
-                                    <div class="inner-content">
-                                        <h4 class="title">Mahindra Arjun 605 DI</h4>
-                                        <span>High Performance Tractor</span>
+                                        <h4 class="title">Mahindra 575 DI</h4>
+                                        <span>45 HP Farming Tractor</span>
                                     </div>
                                 </div>
                             </div>
@@ -119,20 +89,12 @@
 
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/05.webp') }}">
+                                    <a href="#" class="thumbnail">
+                                        <img src="{{ asset('website/images/car-sale/09.jpg') }}">
+                                    </a>
                                     <div class="inner-content">
-                                        <h4 class="title">Swaraj 735 FE</h4>
-                                        <span>Economical Farming Tractor</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/06.webp') }}">
-                                    <div class="inner-content">
-                                        <h4 class="title">Swaraj 855 FE</h4>
-                                        <span>Heavy Load Performance</span>
+                                        <h4 class="title">Mahindra 575 DI</h4>
+                                        <span>45 HP Farming Tractor</span>
                                     </div>
                                 </div>
                             </div>
@@ -144,23 +106,14 @@
                     <!-- UPCOMING TRACTORS -->
                     <div class="tab-pane fade" id="contactone">
                         <div class="row g-5 mt--10">
-
                             <div class="col-lg-6">
                                 <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/03.webp') }}">
+                                    <a href="#" class="thumbnail">
+                                        <img src="{{ asset('website/images/car-sale/09.jpg') }}">
+                                    </a>
                                     <div class="inner-content">
-                                        <h4 class="title">Mahindra Electric Tractor</h4>
-                                        <span>Launching Soon</span>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6">
-                                <div class="single-project-style-three">
-                                    <img src="{{ asset('website/images/project/04.webp') }}">
-                                    <div class="inner-content">
-                                        <h4 class="title">Smart AI Farming Tractor</h4>
-                                        <span>Next Generation Agriculture</span>
+                                        <h4 class="title">Mahindra 575 DI</h4>
+                                        <span>45 HP Farming Tractor</span>
                                     </div>
                                 </div>
                             </div>

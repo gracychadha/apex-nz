@@ -21,20 +21,20 @@
             <div class="offset-lg-1 col-lg-4">
                 <div class="footer-one-single-wized">
                     <div class="wized-title">
-                        <h5 class="title">Products &amp; Solutions</h5>
+                        <h5 class="title">Services &amp; Solutions</h5>
                         <img src="{{ asset('website/images/footer/under-title.png') }}" alt="invena_footer">
                     </div>
                     <div class="quick-link-inner">
                         <ul class="links">
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Vehicle </a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Asset</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Personal</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Accessories</a></li>
+                            <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Vehicle </a></li>
+                            <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Asset</a></li>
+                            <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Personal</a></li>
+                            <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Accessories</a></li>
                         </ul>
                         <ul class="links margin-left-70">
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Vehicle Solution</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Asset Solution</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Stolen Recovery</a></li>
+                            <li><a href="{{ route('vehicle-tracker-gs105') }}"><i class="far fa-arrow-right"></i> Vehicle Solution</a></li>
+                            <li><a href="{{ route('vehicle-tracker-h29p') }}"><i class="far fa-arrow-right"></i> Asset Solution</a></li>
+                            <li><a href="{{ route('vehicle-tracker-h29p') }}"><i class="far fa-arrow-right"></i> Stolen Recovery</a></li>
                         </ul>
                     </div>
                 </div>
@@ -47,10 +47,10 @@
                     </div>
                     <div class="quick-link-inner">
                         <ul class="links">
-                            <li><a href="#"><i class="far fa-arrow-right"></i> About Us</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Contact Us</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Privacy Policy</a></li>
-                            <li><a href="#"><i class="far fa-arrow-right"></i> Terms & Conditions</a></li>
+                            <li><a href="{{ route('case-studies') }}"><i class="far fa-arrow-right"></i> About Us</a></li>
+                            <li><a href="{{ route('contact-us') }}"><i class="far fa-arrow-right"></i> Contact Us</a></li>
+                            <li><a href="{{ route('privacy-policy') }}"><i class="far fa-arrow-right"></i> Privacy Policy</a></li>
+                            <li><a href="{{ route('terms-conditions') }}"><i class="far fa-arrow-right"></i> Terms & Conditions</a></li>
                         </ul>
                     </div>
                 </div>
@@ -66,8 +66,8 @@
                             {{ date('Y') }} | Developed by <a>Vibrantick Infotech Solutions</a>
                         </p>
                         <ul>
-                            <li><a href="#">Privacy Policy</a></li> |
-                            <li><a href="#">Terms & Condition</a></li>
+                            <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li> |
+                            <li><a href="{{ route('terms-conditions') }}">Terms & Condition</a></li>
                         </ul>
                     </div>
                 </div>

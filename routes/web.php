@@ -48,3 +48,9 @@ Route::get('/vehicle-tracker-h29p', function () {
 Route::get('/vehicle-management', function () {
     return view('website.pages.vehicle-management');
 })->name('vehicle-management');
+Route::get('/privacy-policy', function () {
+    return view('website.pages.privacy-policy');
+})->name('privacy-policy');
+Route::get('/terms-conditions', function () {
+    return view('website.pages.terms-conditions');
+})->name('terms-conditions');

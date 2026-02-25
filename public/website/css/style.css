@@ -20002,6 +20002,7 @@ body.with-sticky-item {
 
 .single-project-style-three {
     position: relative;
+    max-height:400px;
     clip-path: polygon(
         0% 0.076%,
         100% 0.076%,
