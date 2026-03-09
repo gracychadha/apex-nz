@@ -33,6 +33,7 @@
 
         <!-- Main CSS -->
         <link rel="stylesheet" href="{{ asset('website/css/style.css') }}">
+
     </head>
 
 </head>
@@ -47,6 +48,7 @@
     @include('website.components.common.sidebar')
 
     <!-- jQuery MUST load first (NO defer) -->
+
     <script src="{{ asset('website/js/plugins/jquery.js') }}"></script>
 
     <!-- Plugins -->
@@ -64,9 +66,11 @@
     <script defer src="{{ asset('website/js/plugins/swiper.js') }}"></script>
 
     <!-- Custom -->
-    <script defer src="{{ asset('website/js/plugins/contact.form.js') }}"></script>
+    {{--
+    <script defer src="{{ asset('website/js/plugins/contact.form.js') }}"></script> --}}
     <script defer src="{{ asset('website/js/main.js') }}"></script>
-
+   
+    @stack('scripts')
 </body>
 
 

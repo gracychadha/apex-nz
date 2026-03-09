@@ -11034,7 +11034,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 }
 @media only screen and (max-width: 991px) {
     .rts-banner-area.business-partner {
-        padding: 100px 0;
+        padding: 50px 0;
     }
 }
 .rts-banner-area.business-partner .banner-content .pre-title {
@@ -23316,6 +23316,10 @@ body.with-sticky-item {
 @media only screen and (max-width: 575px) {
     .single-testimoanils-9 p.disc {
         font-size: 18px;
+        
+    line-height: 40px;
+    color: #212429;
+    padding: 0 20px;
     }
 }
 .single-testimoanils-9 .author-area .title {
@@ -24485,6 +24489,7 @@ body.with-sticky-item {
     .contact-info-area-wrapper-p {
         margin-right: 0;
         padding: 25px;
+        margin-bottom:20px;
     }
 }
 .contact-info-area-wrapper-p .single-contact-info {
@@ -24601,7 +24606,8 @@ body.contact-page .rts-breadcrumb-area .title-area-left {
 }
 @media only screen and (max-width: 767px) {
     .thumbnail-contact-form {
-        margin: 0 0;
+        margin: 0 0 20px 0;
+
     }
 }
 

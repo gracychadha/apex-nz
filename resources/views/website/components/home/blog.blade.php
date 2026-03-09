@@ -4,8 +4,8 @@
             <div class="col-lg-12">
                 <div class="tite-between-area-8 position-relative">
                     <div class="title-style-one eight left mb--30">
-                        <span class="pre radius-10">Weekly Update</span>
-                        <h2 class="title-two rts-text-anime-style-1">Recent Blog Post</h2>
+                        <span class="pre radius-10">Knowledge Hub</span>
+                        <h2 class="title-two rts-text-anime-style-1">Latest Updates & Insights</h2>
                     </div>
                     <div class="next-prev-area">
                         <div class="swiper-button-next blogs-next radius-10"><i

@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="title-style-one center mb--60 mb_md--30">
-                    <h2 class="title-two rts-text-anime-style-1">Don't Let Anything Stop <br> Your Business Growth</h2>
+                    <h2 class="title-two rts-text-anime-style-1">Monitor Anywhere. Control Anytime.<br> Grow Efficiently.</h2>
                 </div>
             </div>
         </div>
@@ -11,8 +11,8 @@
             <div class="col-lg-7">
                 <div class="appoinment-main-wrapper-7 buisness-partner">
                     <form action="#">
-                        <span>Make an Appointment</span>
-                        <h4 class="title">Request a free quote</h4>
+                        <span>Get a Free Quote</span>
+                        <h4 class="title">Let’s Discuss Your Requirements</h4>
                         <div class="input-half-wrapper">
                             <div class="signle-input">
                                 <input type="text" placeholder="Your Name">

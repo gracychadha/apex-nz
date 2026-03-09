@@ -45,7 +45,7 @@
 
                                         </ul>
                                     </li>
-                                    <li class="main-nav has-dropdown project-a-after">
+                                    {{-- <li class="main-nav has-dropdown project-a-after">
                                         <a href="#">Sales</a>
                                         <ul class="submenu parent-nav">
                                             <li><a href="{{ route('car-sale') }}">Car Sales</a></li>
@@ -56,7 +56,7 @@
 
 
                                         </ul>
-                                    </li>
+                                    </li> --}}
 
 
                                     <li class="main-nav has-dropdown mega-menu">

@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-style-one center">
-                        <span class="pre radius-10 text-capitalize">Industries Service</span>
+                        <span class="pre radius-10 text-capitalize">Industries We Serve</span>
                         <h2 class="title-two rts-text-anime-style-1">Our Specialisms</h2>
                     </div>
                 </div>

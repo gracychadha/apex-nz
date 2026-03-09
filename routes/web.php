@@ -1,13 +1,19 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\LeadController;
 
+use App\Http\Controllers\SubscriberController;
+
+Route::post('/subscribe', [SubscriberController::class, 'store'])->name('subscribe');
 Route::get('/', function () {
     return view('website.pages.welcome');
 })->name('home');
 Route::get('/contact-us', function () {
     return view('website.pages.contact-us');
 })->name('contact-us');
+// to store lead
+Route::post('/contact-us/store', [LeadController::class, 'store'])->name('lead.store');
 Route::get('/oem-odm-service', function () {
     return view('website.pages.oem-odm-service');
 })->name('oem-odm-service');

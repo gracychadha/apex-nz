@@ -2,8 +2,8 @@
         <div class="container">
             <div class="row">
                 <div class="title-style-two center">
-                    <span class="pre">Expert Members</span>
-                    <h2 class="title rts-text-anime-style-1">Professionals Team
+                    <span class="pre">Our Expert Team</span>
+                    <h2 class="title rts-text-anime-style-1">Experienced Professionals 
                     </h2>
                 </div>
             </div>
