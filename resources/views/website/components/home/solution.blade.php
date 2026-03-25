@@ -24,7 +24,7 @@
                         <p class="disc">
                             Creativity, and a commitment to quality to deliver solutions meet your unique needs.
                         </p>
-                        <a href="#" class="read-more">Read More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                        <a href="{{ route('contact-us') }}" class="read-more">learn More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                         <p class="disc">
                             Creativity, and a commitment to quality to deliver solutions meet your unique needs.
                         </p>
-                        <a href="#" class="read-more">Read More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                        <a href="{{ route('contact-us') }}" class="read-more">Learn More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                         <p class="disc">
                             Creativity, and a commitment to quality to deliver solutions meet your unique needs.
                         </p>
-                        <a href="#" class="read-more">Read More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
+                        <a href="{{ route('contact-us') }}" class="read-more">Learn More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

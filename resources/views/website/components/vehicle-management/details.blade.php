@@ -12,14 +12,14 @@
 
                     <h3 class="title">Vehicle Management & Fleet Tracking Solution</h3>
 
-                    <p class="disc">
+                    <p class="disc" align="justify">
                         Our Vehicle Management System provides real-time monitoring,
                         tracking, and control of vehicles using advanced GPS technology.
                         Businesses can monitor fleet movement, driver behavior, fuel
                         usage, and vehicle performance from a centralized dashboard.
                     </p>
 
-                    <p class="disc">
+                    <p class="disc" align="justify">
                         Designed for logistics companies, transport operators, and
                         commercial vehicle owners, the system improves operational
                         efficiency, enhances safety, and reduces overall management
@@ -35,7 +35,7 @@
                             </div>
                             <div class="inner-content">
                                 <h5 class="title-sm">Real-Time Vehicle Tracking</h5>
-                                <p class="disc">Monitor live vehicle location anytime using web and mobile apps.</p>
+                                <p class="disc" align="justify">Monitor live vehicle location anytime using web and mobile apps.</p>
                             </div>
                         </div>
 
@@ -45,7 +45,7 @@
                             </div>
                             <div class="inner-content">
                                 <h5 class="title-sm">24/7 Monitoring Support</h5>
-                                <p class="disc">Continuous tracking with instant alerts and notifications.</p>
+                                <p class="disc" align="justify">Continuous tracking with instant alerts and notifications.</p>
                             </div>
                         </div>
 
@@ -71,7 +71,7 @@
 
                     </div>
 
-                    <p class="disc mt--30">
+                    <p class="disc mt--30" align="justify">
                         The vehicle management platform integrates advanced reporting,
                         route playback, geo-fencing alerts, and maintenance reminders,
                         helping businesses maintain full visibility and operational
@@ -81,7 +81,7 @@
                     <!-- PROCESS -->
                     <h3 class="title mt--50">2 Simple Steps to Get Started</h3>
 
-                    <p class="disc">
+                    <p class="disc " align="justify">
                         Our system is easy to deploy and requires minimal setup.
                         From installation to live monitoring, businesses can start
                         tracking vehicles quickly and efficiently.
@@ -120,7 +120,7 @@
                     <!-- FAQ -->
                     <h3 class="title mt--50">Popular Questions</h3>
 
-                    <p class="disc">
+                    <p class="disc" align="justify">
                         Learn more about how our vehicle management system works and
                         how it helps improve fleet efficiency and safety.
                     </p>
@@ -129,7 +129,8 @@
 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                                <button class="accordion-button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne">
                                     What services do you provide in vehicle management?
                                 </button>
                             </h2>
@@ -143,7 +144,8 @@
 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo">
                                     Can I monitor vehicles from mobile?
                                 </button>
                             </h2>
@@ -157,7 +159,8 @@
 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree">
                                     Is this system suitable for fleets?
                                 </button>
                             </h2>
@@ -174,7 +177,8 @@
             </div>
 
             <!-- RIGHT SIDEBAR -->
-            <div class="col-xl-4 col-md-12 col-sm-12 col-12 mt_lg--60 pl--50 pl_lg--0 pl_md--0 pl-lg-controler pl_sm--0 mt-service-shorter">
+            <div
+                class="col-xl-4 col-md-12 col-sm-12 col-12 mt_lg--60 pl--50 pl_lg--0 pl_md--0 pl-lg-controler pl_sm--0 mt-service-shorter">
 
                 <!-- Categories -->
                 <div class="rts-single-wized Categories service">
@@ -229,13 +233,14 @@
                 </div> --}}
 
                 <!-- Contact -->
-                <div class="rts-single-wized contact service">
+                <div class="rts-single-wized contact">
                     <div class="wized-header">
-                        <a href="#"><img src="{{ asset('website/images/logo/apex.png') }}"></a>
+                        <a href="#"><img src="{{ asset('website/images/logo/apex-white.png') }}"
+                                alt="Business_logo" /></a>
                     </div>
                     <div class="wized-body">
-                        <h5 class="title">Need Help? Contact Our Tracking Experts</h5>
-                        <a class="rts-btn btn-primary btn-white" href="#">Contact Us</a>
+                        <h5 class="title">Need Help? We Are Here To Help You</h5>
+                        <a class="rts-btn btn-primary btn-white" href="{{ route('contact-us') }}">Contact Us</a>
                     </div>
                 </div>
 

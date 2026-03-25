@@ -9,7 +9,7 @@
                             Specialist Business Cases
                         </h2>
                     </div>
-                    <a href="#" class="rts-btn btn-primary">View Project</a>
+                    <a href="{{ route('contact-us') }}" class="rts-btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>

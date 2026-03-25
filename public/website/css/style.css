@@ -18749,6 +18749,9 @@ body.with-sticky-item {
     align-items: center;
     justify-content: space-between;
 }
+.copyright-8-wrapper a:hover{
+    color:white !important;
+}
 @media only screen and (max-width: 575px) {
     .copyright-8-wrapper {
         flex-direction: column;
@@ -18890,7 +18893,7 @@ body.with-sticky-item {
     color: white;
 }
 .footer-twenty .copyright-area-main-wrapper .copyright-8-wrapper ul li a:hover {
-    color: var(--color-white);
+    color: var(--color-white) !important;
 }
 
 .footer-twenty-one {

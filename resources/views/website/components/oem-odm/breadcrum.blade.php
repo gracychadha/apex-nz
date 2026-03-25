@@ -11,7 +11,7 @@
                                     <h1 class="title rts-text-anime-style-1">
                                         OEM / ODM Service
                                     </h1>
-                                    <p class="disc">
+                                    <p class="disc" align="justify">
                                         OEM/ODM services provide reliable product development through coordinated
                                         manufacturing capabilities and collaborative networks. They help businesses
                                         streamline production, maintain quality, and achieve efficient,

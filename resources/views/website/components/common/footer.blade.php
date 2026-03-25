@@ -11,10 +11,7 @@
                     </p>
                     <ul class="social-area-wrapper-two">
                         <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                         <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -62,8 +59,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-8-wrapper">
-                        <p>Apex
-                            {{ date('Y') }} | Developed by <a>Vibrantick Infotech Solutions</a>
+                        <p>&copy; Apex
+                            {{ date('Y') }} | Developed by <a href="https://vibrantick.in/" target="_blank">Vibrantick Infotech Solutions</a>
                         </p>
                         <ul>
                             <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li> |

@@ -256,7 +256,7 @@
                                         </ul>
                                     </li> --}}
                                     <li><a href="{{ route('oem-odm-service') }}">OEM/ODM</a></li>
-                                    <li><a href="{{ route('contact-us') }}">Contact Us</a> </li>
+                                    {{-- <li><a href="{{ route('contact-us') }}">Contact Us</a> </li> --}}
                                 </ul>
                             </div>
 
@@ -268,8 +268,7 @@
                                     <div class="loader-section section-right"></div>
                                 </div> -->
                             <div class="button-area">
-                                <a href="#" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Book a
-                                    Meeting</a>
+                                <a href="{{ route('contact-us') }}" class="rts-btn btn-primary ml--20 ml_sm--5 header-one-btn quote-btn">Contact Us</a>
                                 <button id="menu-btn" class="menu menu-btn ml--20 ml_sm--5">
                                     <img class="menu-light" src="{{ asset('website/images/icons/01.svg') }}"
                                         alt="Menu-icon">

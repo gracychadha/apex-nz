@@ -12,12 +12,12 @@
                         </p>
                     </div>
                     <div class="mid-content">
-                        <p class="disc">
+                        <p class="disc" align="justify">
                             We're your strategic partners in digital transformation. With over a decade of
                             experience and a team of certified experts, we deliver tailored solutions that drive
                             growth, enhance efficiency, and secure your digital assets.
                         </p>
-                        <p class="disc">
+                        <p class="disc" align="justify">
                             Invena works with businesses of all sizes, from small startups to large enterprises.
                             We tailor our solutions to meet the specific needs and budget of each client offers a
                             wide range of IT services. As we invest heavily in ongoing training and professional
@@ -25,7 +25,7 @@
                             partnerships with leading technology providers, and conduct internal research and
                             development projects.
                         </p>
-                        <p class="disc">
+                        <p class="disc" align="justify">
                             Invena works with businesses of all sizes, from small startups to large enterprises.
                             We tailor our solutions to meet the specific needs and budget of each client offers a
                             wide range of IT services. As we invest heavily in ongoing training and professional
