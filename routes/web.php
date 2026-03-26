@@ -51,9 +51,21 @@ Route::get('/vehicle-tracker-gs105', function () {
 Route::get('/vehicle-tracker-h29p', function () {
     return view('website.pages.vehicle-tracker-H29P');
 })->name('vehicle-tracker-h29p');
+Route::get('/asset-tracker-GS-105', function () {
+    return view('website.pages.asset-tracker-GS-105');
+})->name('asset-tracker-GS-105');
+Route::get('/asset-tracker-H29', function () {
+    return view('website.pages.asset-tracker-H29');
+})->name('asset-tracker-H29');
 Route::get('/vehicle-management', function () {
     return view('website.pages.vehicle-management');
 })->name('vehicle-management');
+Route::get('/asset-management', function () {
+    return view('website.pages.asset-management');
+})->name('asset-management');
+Route::get('/stolen-vehicle-recovery', function () {
+    return view('website.pages.stolen-vehicle-management');
+})->name('stolen-vehicle-management');
 Route::get('/privacy-policy', function () {
     return view('website.pages.privacy-policy');
 })->name('privacy-policy');
