@@ -46,8 +46,11 @@
 @import url("../../css2");
 @import url("../../css2-1");
 :root {
-    --color-primary: #20282d;
+    --color-primary: #02acf1;
+    --color-red:#e82f35;
     --color-secondary: #1f1f25;
+    --color-dark-blue: #002887;
+    --color-light-blue: #E0F4FF;
     --color-blue: #0b4df5;
     --color-sky: #82b440;
     --color-body: #5d666f;
@@ -11040,12 +11043,13 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
 .rts-banner-area.business-partner .banner-content .pre-title {
     display: inline-block;
     margin-bottom: 20px;
-    color: var(--color-primary);
+    color: var(--color-red);
 }
 .rts-banner-area.business-partner .banner-content .title {
     font-size: 60px;
     font-weight: 700;
     line-height: 85px;
+    color:var(--color-dark-blue);
 }
 @media only screen and (max-width: 1199px) {
     .rts-banner-area.business-partner .banner-content .title {
@@ -11079,8 +11083,8 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
     .banner-btn-area
     .rts-btn.two {
     background: transparent;
-    color: var(--color-heading-1);
-    border: 1px solid var(--color-primary);
+    color: var(--color-red);
+    border: 1px solid var(--color-red);
 }
 .rts-banner-area.business-partner
     .banner-content
@@ -11434,7 +11438,7 @@ header.header--sticky.sticky .nav-area ul li.main-nav {
     .check-wrapper-area
     .single-check
     i {
-    color: #20282d;
+    color: var(--color-dark-blue);
 }
 .about-inner-content-two
     .about-between-wrapper
@@ -14016,7 +14020,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 .service-main-wrapper-list .single-service-wrapper {
     display: flex;
     align-items: center;
-    background: #f6f6f6;
+    background: var(--color-light-blue);
     border-radius: 100px;
     transition: all 0.3s;
 }
@@ -14346,9 +14350,9 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
     justify-content: center;
     align-items: center;
     padding: 8px 16px;
-    border: 1px solid #e9e9e9;
+    border: 1px solid var(--color-red);
     font-size: 16px;
-    color: #5d666f;
+    color: var(--color-red);
     display: flex;
     max-width: max-content;
     text-transform: uppercase;
@@ -14386,6 +14390,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 .title-style-one .title-two {
     font-size: 40px;
+    color:var(--color-dark-blue);
 }
 @media only screen and (max-width: 1199px) {
     .title-style-one .title-two {
@@ -14462,7 +14467,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
 }
 .title-style-two .pre {
     font-size: 16px;
-    color: #000000;
+    color: var(--color-red);
     display: flex;
     text-transform: uppercase;
     margin-bottom: 22px;
@@ -14471,6 +14476,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
     letter-spacing: 2px;
 }
 .title-style-two .title {
+    color:var(--color-dark-blue);
     font-size: 48px;
     font-weight: 700;
     line-height: 1.35;
@@ -21787,17 +21793,18 @@ body.with-sticky-item {
 }
 
 .rts-offer-area {
-    background: var(--color-primary);
+    background: var(--color-light-blue);
 }
 .rts-offer-area .title-style-one .pre {
-    color: #c9c9c9;
-    border-color: #999;
+    color: #fff;
+    background:var(--color-primary);
+    
 }
 .rts-offer-area .title-style-one .title-two {
-    color: var(--color-white);
+    color: var(--color-dark-blue);
 }
 .rts-offer-area .title-style-one .disc {
-    color: #c9c9c9;
+    color: var(--color-dark-blue);
 }
 .rts-offer-area .rts-offer-wrapper {
     margin-top: 60px;
@@ -22584,7 +22591,7 @@ body.with-sticky-item {
     border-radius: 10px;
 }
 .appoinment-main-wrapper-7.buisness-partner .title {
-    color: var(--color-heading-1);
+    color: var(--color-dark-blue);
 }
 .appoinment-main-wrapper-7.buisness-partner input,
 .appoinment-main-wrapper-7.buisness-partner textarea {
@@ -22697,7 +22704,7 @@ body.with-sticky-item {
 
 .appoinment-contact-area {
     padding: 70px;
-    background: var(--color-primary);
+    background: var(--color-dark-blue);
     border-radius: 10px;
     margin-left: -55px;
 }

@@ -30,7 +30,7 @@
                     <div class="header-main-one-wrapper">
                         <div class="thumbnail">
                             <a href="{{ route('home') }}">
-                                <img src="{{ asset('website/images/logo/apex.png') }}" alt="invena-logo">
+                                <img src="{{ asset('website/images/logo/apex-main-logo.png') }}" alt="invena-logo">
                             </a>
                         </div>
                         <div class="main-header">
