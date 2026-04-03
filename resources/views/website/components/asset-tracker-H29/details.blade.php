@@ -23,14 +23,14 @@
             <div class="col-lg-12">
                 <div class="single-project-info-wrapper-inner">
 
-                    <h4 class="title">GS10G – 4G 8PIN GPS Vehicle Tracker</h4>
+                    <h4 class="title">GS300 - 4G GPS Tracker</h4>
 
                     <p class="disc">
-                        The GS10G 4G 8PIN GPS Tracker is an advanced real-time vehicle tracking
-                        device designed for cars, commercial fleets, logistics vehicles, and
-                        personal security monitoring. It delivers accurate live tracking,
-                        ignition status monitoring, geo-fencing alerts, and remote vehicle
-                        control using stable 4G connectivity.
+                        The GS300 4G Asset GPS Tracker is a smart and efficient device designed to provide accurate
+                        tracking and enhanced security for valuable assets. It is suitable for monitoring equipment,
+                        containers, cargo, and other movable assets. With advanced 4G connectivity, the device ensures
+                        fast data transmission and consistent location updates, helping businesses stay informed at all
+                        times.
                     </p>
 
                     <div class="row g-4">
@@ -88,22 +88,15 @@
                 <div class="project-details-content-bottom">
 
                     <p class="disc">
-                        The GS10G tracker enables real-time vehicle monitoring through
-                        web and mobile tracking platforms. Users can track live location,
-                        review travel history, set geo-fence boundaries, and receive instant
-                        alerts for ignition activity and overspeed events.
+                       The GS300 allows users to track and manage assets easily through mobile and web applications. It provides live location updates, trip history, geo-fencing setup, and instant alerts for any unusual movement or activity.
                     </p>
 
                     <p class="bold">
-                        “Designed for accuracy, stability, and security — the GS10G ensures
-                        complete vehicle control anytime, anywhere.”
+                       “Designed for smart tracking and dependable performance — keeping your assets safe, visible, and under control.”
                     </p>
 
                     <p class="disc">
-                        Powered by modern 4G technology, the device provides faster data
-                        communication and reliable signal performance compared to traditional
-                        tracking systems. It is ideal for logistics companies, taxi operators,
-                        school transport, rental vehicles, and personal car security.
+                        Built with a focus on reliability and ease of use, the GS300 offers stable performance in different environments. Its compact design and efficient battery support make it ideal for long-term asset monitoring across logistics, construction, and supply chain operations.
                     </p>
 
                 </div>
@@ -162,15 +155,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne">
-                                    What Features Does GS10G GPS Tracker Provide?
+                                   What features does GS300 GPS Tracker Provide?
                                 </button>
                             </h2>
 
                             <div id="collapseOne" class="accordion-collapse collapse show">
                                 <div class="accordion-body">
-                                    Live tracking, geo-fencing alerts, route playback,
-                                    ignition monitoring, and remote engine control features
-                                    ensure complete vehicle safety.
+                                    The GS300 offers live tracking, geo-fencing alerts, movement notifications, route history, and tamper detection to ensure complete asset visibility and protection.
                                 </div>
                             </div>
                         </div>
@@ -180,14 +171,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo">
-                                    How Is The Device Installed?
+                                    How is the Device Installed?
                                 </button>
                             </h2>
 
                             <div id="collapseTwo" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Installation is simple using the 8PIN wiring interface
-                                    connected to vehicle power and ignition system.
+                                   The device is simple to use and does not require complicated installation. It can be easily placed or securely attached to the asset for immediate tracking.
                                 </div>
                             </div>
                         </div>
@@ -197,14 +187,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree">
-                                    Can I Track Vehicle From Mobile?
+                                   Can I Track Assets from Mobile?
                                 </button>
                             </h2>
 
                             <div id="collapseThree" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Yes, GS10G supports Android, iOS, and web platforms
-                                    for real-time monitoring anytime.
+                                    Yes, the GS300 supports real-time tracking through Android, iOS, and web platforms, allowing users to monitor their assets anytime and from anywhere.
                                 </div>
                             </div>
                         </div>

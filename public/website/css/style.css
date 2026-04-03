@@ -7869,11 +7869,11 @@ header .nav-area ul li.main-nav:hover::after {
 
 .rts-mega-menu {
     position: absolute;
-    width: 100%;
+    width: 70%;
     height: auto;
     top: 100%;
     transform: scaleY(0);
-    left: 0;
+    left: 30%;
     z-index: 90;
     opacity: 0;
     visibility: hidden;
@@ -24531,9 +24531,10 @@ body.with-sticky-item {
     color: var(--color-primary);
 }
 .contact-info-area-wrapper-p .single-contact-info .info-wrapper span {
-    color: #b3b7c1;
+    color: var(--color-dark-blue);
     display: block;
     margin-bottom: 10px;
+    font-weight:700;
 }
 .contact-info-area-wrapper-p .single-contact-info .info-wrapper a {
     color: #ffffff;

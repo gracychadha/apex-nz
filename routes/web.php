@@ -51,12 +51,12 @@ Route::get('/vehicle-tracker-gs105', function () {
 Route::get('/vehicle-tracker-h29p', function () {
     return view('website.pages.vehicle-tracker-H29P');
 })->name('vehicle-tracker-h29p');
-Route::get('/asset-tracker-GS-105', function () {
+Route::get('/asset-tracker-S20-4G', function () {
     return view('website.pages.asset-tracker-GS-105');
-})->name('asset-tracker-GS-105');
-Route::get('/asset-tracker-H29', function () {
+})->name('asset-tracker-S20-4G');
+Route::get('/asset-tracker-GS300-4G', function () {
     return view('website.pages.asset-tracker-H29');
-})->name('asset-tracker-H29');
+})->name('asset-tracker-GS300-4G');
 Route::get('/vehicle-management', function () {
     return view('website.pages.vehicle-management');
 })->name('vehicle-management');

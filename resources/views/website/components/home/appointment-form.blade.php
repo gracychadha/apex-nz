@@ -41,7 +41,7 @@
                         </div>
                         <div class="main-contact">
                             <span>Call Us 24/7</span>
-                            <a href="tel:3479052">3479052</a>
+                            <a href="tel:+6421382286">+64 213 82286</a>
                         </div>
                     </div>
                     <div class="signle-contact">
@@ -59,7 +59,7 @@
                         </div>
                         <div class="main-contact">
                             <span>Our Location</span>
-                            <a href="#">125 Town, New Zealand</a>
+                            <a href="#">Apex Cartrack , New Zealand , Fiji , Australia , USA</a>
                         </div>
                     </div>
                 </div>

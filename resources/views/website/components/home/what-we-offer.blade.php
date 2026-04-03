@@ -3,9 +3,9 @@
         <div class="title-style-one center">
             <span class="pre radius-10 text-capitalize">What We Do</span>
             <h2 class="title-two rts-text-anime-style-1">What We Offer</h2>
-            <p class="disc">We believe in delivering precision, control, and real-time visibility through advanced GPS
-                tracking <br> technology. By understanding each client’s operational challenges, we create tailored
-                tracking solutions that <br>improve security, reduce costs, and optimize performance.</p>
+            <p class="disc">We aim to simplify the way you track and manage your vehicles.<br> By understanding your
+                requirements, we offer reliable GPS solutions<br> that enhance safety, lower expenses, and improve your
+                daily operations.</p>
         </div>
         <div class="rts-offer-wrapper">
             <div class="tab-content">
@@ -29,12 +29,12 @@
                     <img src="{{ asset('website/images/offer/01.webp') }}" alt="">
                 </div>
 
-               
+
             </div>
             <div class="tab-nav">
                 <div class="nav nav-tabs" id="tab" role="tablist">
                     <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#tab1">
-                          <span class="main">Custom GPS Solutions</span>
+                        <span class="main">Custom GPS Solutions</span>
                         <span class="second">Built Around Your Business.</span>
                     </button>
 
@@ -54,12 +54,12 @@
                     </button>
 
                     <button class="nav-link" data-bs-toggle="tab" data-bs-target="#tab5">
-                     
-                         <span class="main">Real-Time GPS Vehicle Tracking</span>
+
+                        <span class="main">Real-Time GPS Vehicle Tracking</span>
                         <span class="second">Track Smarter. Move Faster.</span>
                     </button>
 
-                   
+
                 </div>
             </div>
         </div>

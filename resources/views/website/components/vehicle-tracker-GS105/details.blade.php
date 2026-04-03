@@ -25,12 +25,12 @@
 
                     <h4 class="title">GS10G – 4G 8PIN GPS Vehicle Tracker</h4>
 
-                    <p class="disc">
-                        The GS10G 4G 8PIN GPS Tracker is an advanced real-time vehicle tracking
-                        device designed for cars, commercial fleets, logistics vehicles, and
-                        personal security monitoring. It delivers accurate live tracking,
-                        ignition status monitoring, geo-fencing alerts, and remote vehicle
-                        control using stable 4G connectivity.
+                    <p class="disc" align="justify">
+                        The GS10G 4G 8PIN GPS Tracker is a powerful and reliable device for real-time vehicle tracking.
+                        Designed for cars, commercial fleets, logistics vehicles, and personal safety, it provides
+                        precise live location updates, ignition monitoring, geo-fencing alerts, and remote-control
+                        features. With stable 4G connectivity, it ensures consistent performance and accurate tracking
+                        anytime, anywhere.
                     </p>
 
                     <div class="row g-4">
@@ -87,23 +87,22 @@
             <div class="col-lg-12">
                 <div class="project-details-content-bottom">
 
-                    <p class="disc">
-                        The GS10G tracker enables real-time vehicle monitoring through
-                        web and mobile tracking platforms. Users can track live location,
-                        review travel history, set geo-fence boundaries, and receive instant
-                        alerts for ignition activity and overspeed events.
+                    <p class="disc" align="justify">
+                        The GS10G 4G GPS Tracker offers seamless real-time monitoring through both web and mobile
+                        platforms. Users can view live locations, check trip history, set geo-fencing boundaries, and
+                        receive instant alerts for ignition activity or over-speeding.
                     </p>
 
                     <p class="bold">
-                        “Designed for accuracy, stability, and security — the GS10G ensures
-                        complete vehicle control anytime, anywhere.”
+                        “Build for precision, reliability, and safety — giving you full control of your vehicles at all
+                        times.”
                     </p>
 
-                    <p class="disc">
-                        Powered by modern 4G technology, the device provides faster data
-                        communication and reliable signal performance compared to traditional
-                        tracking systems. It is ideal for logistics companies, taxi operators,
-                        school transport, rental vehicles, and personal car security.
+                    <p class="disc" align="justify">
+                        Built for accuracy, reliability, and security, the GS10G gives you complete control over your
+                        vehicles anytime, anywhere. With modern 4G connectivity, it delivers faster data transfer and
+                        stable signal performance, making it ideal for logistics fleets, taxis, school transport, rental
+                        cars, and personal vehicles.
                     </p>
 
                 </div>
@@ -168,9 +167,9 @@
 
                             <div id="collapseOne" class="accordion-collapse collapse show">
                                 <div class="accordion-body">
-                                    Live tracking, geo-fencing alerts, route playback,
-                                    ignition monitoring, and remote engine control features
-                                    ensure complete vehicle safety.
+                                    The GS10G offers live tracking, geo-fencing alerts, route playback, ignition
+                                    monitoring, and remote engine control to ensure comprehensive vehicle safety and
+                                    management.
                                 </div>
                             </div>
                         </div>
@@ -178,8 +177,7 @@
                         <!-- FAQ 2 -->
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed"
-                                    data-bs-toggle="collapse"
+                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo">
                                     How Is The Device Installed?
                                 </button>
@@ -187,8 +185,8 @@
 
                             <div id="collapseTwo" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Installation is simple using the 8PIN wiring interface
-                                    connected to vehicle power and ignition system.
+                                    Installation is straightforward using the 8PIN wiring interface, which connects
+                                    directly to the vehicle’s power and ignition systems.
                                 </div>
                             </div>
                         </div>
@@ -196,8 +194,7 @@
                         <!-- FAQ 3 -->
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed"
-                                    data-bs-toggle="collapse"
+                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree">
                                     Can I Track Vehicle From Mobile?
                                 </button>
@@ -205,8 +202,8 @@
 
                             <div id="collapseThree" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Yes, GS10G supports Android, iOS, and web platforms
-                                    for real-time monitoring anytime.
+                                    Yes, the GS10G supports real-time monitoring via Android, iOS, and web platforms,
+                                    allowing you to track your vehicle anytime, anywhere.
                                 </div>
                             </div>
                         </div>
@@ -215,28 +212,7 @@
                 </div>
             </div>
 
-            <!-- NEXT PREVIOUS -->
-            <div class="col-lg-12">
-                <div class="next-prev-project-wrapper">
-
-                    <div class="single-next-prev-wrapper">
-                        <img src="{{ asset('website/images/portfolio/32.webp') }}">
-                        <div class="info">
-                            <span>GPS Tracker</span>
-                            <p>GS10G – Smart 4G Vehicle Tracking Solution</p>
-                        </div>
-                    </div>
-
-                    <div class="single-next-prev-wrapper last">
-                        <div class="info">
-                            <span>GPS Tracker</span>
-                            <p>Advanced Fleet Monitoring Devices</p>
-                        </div>
-                        <img src="{{ asset('website/images/portfolio/32.webp') }}">
-                    </div>
-
-                </div>
-            </div>
+            
 
         </div>
     </div>

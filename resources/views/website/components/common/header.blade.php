@@ -14,8 +14,7 @@
                                     info@apex.com</a>
                             </div>
                             <div class="mail">
-                                <a href="#"><i class="fa-solid fa-phone-flip"></i> Hotline:
-                                    347-9052</a>
+                                <a href="tel:+6421382286"><i class="fa-solid fa-phone-flip"></i>+64 213 82286</a>
                             </div>
                         </div>
                     </div>
@@ -39,7 +38,7 @@
                                     <li class="main-nav has-dropdown project-a-after">
                                         <a href="#">About Us</a>
                                         <ul class="submenu parent-nav">
-                                            <li><a href="{{ route('case-studies') }}">Case Studies</a></li>
+                                            {{-- <li><a href="{{ route('case-studies') }}">Case Studies</a></li> --}}
                                             <li><a href="{{ route('news') }}">Latest News</a></li>
                                             <li><a href="{{ route('videos') }}">Video</a></li>
 
@@ -54,7 +53,7 @@
                                             <div class="wrapper">
                                                 <div class="container">
                                                     <div class="row g-0">
-                                                        <div class="col-lg-3">
+                                                        <div class="col-lg-6">
                                                             <ul class="mega-menu-item with-list parent-nav">
                                                                 <li class="hega-menu-head-wrapper">
                                                                     <p class="hega-menu-head">
@@ -74,26 +73,25 @@
 
                                                             </ul>
                                                         </div>
-                                                        <div class="col-lg-3">
+                                                        <div class="col-lg-6">
                                                             <ul class="mega-menu-item with-list parent-nav">
                                                                 <li class="hega-menu-head-wrapper">
                                                                     <p class="hega-menu-head"><i
                                                                             class="fa-solid fa-shield-halved"></i>
                                                                         Asset Tracker</p>
                                                                 </li>
-                                                                <li><a href="{{ route('asset-tracker-GS-105') }}"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
-                                                                        - 4G 8PIN Tracker</a>
+                                                                <li><a href="{{ route('asset-tracker-S20-4G') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>S20 - 4G Portable 6000MAH</a>
                                                                 </li>
-                                                                <li><a href="{{ route('asset-tracker-H29') }}"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H29P
-                                                                        - 4G Tracker</a>
+                                                                <li><a href="{{ route('asset-tracker-GS300-4G') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS300
+                                                                        - 4G GPS Tracker</a>
                                                                 </li>
 
 
                                                             </ul>
                                                         </div>
-                                                        <div class="col-lg-3">
+                                                        {{-- <div class="col-lg-3">
                                                             <ul class="mega-menu-item with-list parent-nav">
                                                                 <li class="hega-menu-head-wrapper">
                                                                     <p class="hega-menu-head"><i
@@ -101,26 +99,22 @@
                                                                         Telematics
                                                                     </p>
                                                                 </li>
-                                                                <li><a href="{{ route('vehicle-tracker-gs105') }}"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
-                                                                        - 4G 8PIN Tracker</a>
+                                                                <li><a href="{{ route('video-tracker-h18p') }}"><i
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H18P - 4G ADAS+DMS</a>
                                                                 </li>
-                                                                <li><a href="{{ route('vehicle-tracker-h29p') }}"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H29P
-                                                                        - 4G Tracker</a>
-                                                                </li>
+                                                               
 
 
                                                             </ul>
-                                                        </div>
-                                                        <div class="col-lg-3">
+                                                        </div> --}}
+                                                        {{-- <div class="col-lg-3">
                                                             <ul class="mega-menu-item with-list parent-nav">
                                                                 <li class="hega-menu-head-wrapper">
                                                                     <p class="hega-menu-head"><i
                                                                             class="fa-solid fa-screwdriver-wrench"></i>
                                                                         Accessories</p>
                                                                 </li>
-                                                                <li><a href="{{ route('vehicle-tracker-gs105') }}"><i
+                                                                <li><a href="{{ route('video-tracker-h18p') }}"><i
                                                                             class="fa-sharp fa-regular fa-chevron-right"></i>GS10G
                                                                         - 4G 8PIN Tracker</a>
                                                                 </li>
@@ -130,7 +124,7 @@
                                                                 </li>
 
                                                             </ul>
-                                                        </div>
+                                                        </div> --}}
                                                     </div>
                                                 </div>
                                             </div>

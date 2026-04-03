@@ -23,14 +23,14 @@
             <div class="col-lg-12">
                 <div class="single-project-info-wrapper-inner">
 
-                    <h4 class="title">GS10G – 4G 8PIN GPS Vehicle Tracker</h4>
+                    <h4 class="title">S20 - 4G Portable 6000MAH</h4>
 
-                    <p class="disc">
-                        The GS10G 4G 8PIN GPS Tracker is an advanced real-time vehicle tracking
-                        device designed for cars, commercial fleets, logistics vehicles, and
-                        personal security monitoring. It delivers accurate live tracking,
-                        ignition status monitoring, geo-fencing alerts, and remote vehicle
-                        control using stable 4G connectivity.
+                    <p class="disc" align="justify">
+                        The S20 4G Portable GPS Tracker is a powerful and versatile solution designed for real-time
+                        asset tracking and security. Equipped with a high-capacity 6000mAh battery, it ensures
+                        long-lasting performance, making it ideal for tracking valuable assets such as containers,
+                        equipment, vehicles, and shipments. With reliable 4G connectivity, the device delivers accurate
+                        location updates anytime, anywhere.
                     </p>
 
                     <div class="row g-4">
@@ -88,22 +88,21 @@
                 <div class="project-details-content-bottom">
 
                     <p class="disc">
-                        The GS10G tracker enables real-time vehicle monitoring through
-                        web and mobile tracking platforms. Users can track live location,
-                        review travel history, set geo-fence boundaries, and receive instant
-                        alerts for ignition activity and overspeed events.
+                        The S20 Portable Tracker provides seamless tracking through mobile and web platforms. Users can
+                        monitor live location, view movement history, set geo-fencing zones, and receive instant alerts
+                        for movement, tampering, or low battery.
                     </p>
 
                     <p class="bold">
-                        “Designed for accuracy, stability, and security — the GS10G ensures
-                        complete vehicle control anytime, anywhere.”
+                        “Built for durability, long battery life, and reliable tracking — keeping your assets secure at
+                        all times.”
                     </p>
 
                     <p class="disc">
-                        Powered by modern 4G technology, the device provides faster data
-                        communication and reliable signal performance compared to traditional
-                        tracking systems. It is ideal for logistics companies, taxi operators,
-                        school transport, rental vehicles, and personal car security.
+                        Designed for flexibility and ease of use, the S20 does not require complex installation. Its
+                        strong battery backup and portable design make it perfect for logistics, supply chain
+                        management, and high-value asset protection. Whether stationary or in transit, the device
+                        ensures complete visibility and control.
                     </p>
 
                 </div>
@@ -162,15 +161,15 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne">
-                                    What Features Does GS10G GPS Tracker Provide?
+                                    What Features Does S20 Portable GPS Tracker Provide?
                                 </button>
                             </h2>
 
                             <div id="collapseOne" class="accordion-collapse collapse show">
                                 <div class="accordion-body">
-                                    Live tracking, geo-fencing alerts, route playback,
-                                    ignition monitoring, and remote engine control features
-                                    ensure complete vehicle safety.
+                                    The S20 offers real-time tracking, geo-fencing alerts, route history, motion
+                                    detection, tamper alerts, and extended battery performance for reliable asset
+                                    monitoring.
                                 </div>
                             </div>
                         </div>
@@ -180,14 +179,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo">
-                                    How Is The Device Installed?
+                                    How Is the Device Installed?
                                 </button>
                             </h2>
 
                             <div id="collapseTwo" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Installation is simple using the 8PIN wiring interface
-                                    connected to vehicle power and ignition system.
+                                    The device is completely portable and requires no wiring. Simply place it inside or
+                                    attach it to the asset for instant tracking.
                                 </div>
                             </div>
                         </div>
@@ -197,14 +196,14 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree">
-                                    Can I Track Vehicle From Mobile?
+                                    Can I Track Assets from Mobile?
                                 </button>
                             </h2>
 
                             <div id="collapseThree" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Yes, GS10G supports Android, iOS, and web platforms
-                                    for real-time monitoring anytime.
+                                    Yes, the S20 supports real-time tracking via Android, iOS, and web platforms,
+                                    allowing you to monitor your assets anytime and from anywhere.
                                 </div>
                             </div>
                         </div>

@@ -21,7 +21,7 @@
                     <div class="content">
                         <h6 class="title">Requirement Analysis</h6>
                         <p class="disc">
-                            Understanding client needs, product goals, and specifications for OEM/ODM development.
+                           We begin by understanding your business goals, product requirements, and technical specifications to ensure the OEM/ODM solution aligns perfectly with your needs.
                         </p>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                     <div class="content">
                         <h6 class="title">Design & Cost Planning</h6>
                         <p class="disc">
-                            Product design, material selection, and cost estimation for efficient production planning.
+                            Our team handles product design, material selection, and cost estimation to create efficient production plans that balance quality, functionality, and budget.
                         </p>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                     <div class="content">
                         <h6 class="title">Manufacturing & Quality</h6>
                         <p class="disc">
-                            Streamlined production with strict quality control to ensure reliable product performance.
+                            We manage streamlined production while enforcing strict quality control standards to guarantee reliable product performance and consistency.
                         </p>
                     </div>
                 </div>
@@ -72,7 +72,7 @@
                     <div class="content">
                         <h6 class="title">Delivery & Support</h6>
                         <p class="disc">
-                            Timely delivery with branding support, logistics coordination, and after-sales assistance.
+                            We ensure timely delivery with full branding support, logistics coordination, and comprehensive after-sales assistance to meet your business objectives.
                         </p>
                     </div>
                 </div>

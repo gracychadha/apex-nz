@@ -2,7 +2,7 @@
     <!-- single wized start -->
     <div class="rts-single-wized search1">
         <div class="wized-header">
-            <h5 class="title">Search Hear</h5>
+            <h5 class="title">Search Here</h5>
         </div>
         <div class="wized-body">
             <div class="rts-search-wrapper">
@@ -12,50 +12,7 @@
         </div>
     </div>
     <!-- single wized End -->
-    <!-- single wized start -->
-    <div class="rts-single-wized Categories">
-        <div class="wized-header">
-            <h5 class="title">Categories</h5>
-        </div>
-        <div class="wized-body">
-            <!-- single categoris -->
-            <ul class="single-categories">
-                <li>
-                    <a href="#">Business Solution <i class="far fa-long-arrow-right"></i></a>
-                </li>
-            </ul>
-            <!-- single categoris End -->
-            <!-- single categoris -->
-            <ul class="single-categories">
-                <li>
-                    <a href="#">Solution Model<i class="far fa-long-arrow-right"></i></a>
-                </li>
-            </ul>
-            <!-- single categoris End -->
-            <!-- single categoris -->
-            <ul class="single-categories">
-                <li>
-                    <a href="#">More Business <i class="far fa-long-arrow-right"></i></a>
-                </li>
-            </ul>
-            <!-- single categoris End -->
-            <!-- single categoris -->
-            <ul class="single-categories">
-                <li>
-                    <a href="#">Finbiz Solution <i class="far fa-long-arrow-right"></i></a>
-                </li>
-            </ul>
-            <!-- single categoris End -->
-            <!-- single categoris -->
-            <ul class="single-categories">
-                <li>
-                    <a href="#">Consulting Busiuness<i class="far fa-long-arrow-right"></i></a>
-                </li>
-            </ul>
-            <!-- single categoris End -->
-        </div>
-    </div>
-    <!-- single wized End -->
+
     <!-- single wized start -->
     <div class="rts-single-wized Recent-post">
         <div class="wized-header">
@@ -65,7 +22,8 @@
             <!-- recent-post -->
             <div class="recent-post-single">
                 <div class="thumbnail">
-                    <a href="{{route('news-detail')}}"><img src="{{ asset('website/images/blog/details/recent-post/01.png') }}" alt="Blog_post" /></a>
+                    <a href="{{route('news-detail')}}"><img
+                            src="{{ asset('website/images/blog/details/recent-post/01.png') }}" alt="Blog_post" /></a>
                 </div>
                 <div class="content-area">
                     <div class="user">
@@ -74,71 +32,17 @@
                     </div>
                     <a class="post-title" href="#">
                         <h6 class="title">
-                            We would love to share a similar experience
+                            How GPS Tracking Improves Vehicle Safety and Monitoring
                         </h6>
                     </a>
                 </div>
             </div>
             <!-- recent-post End -->
-            <!-- recent-post -->
-            <div class="recent-post-single">
-                <div class="thumbnail">
-                    <a href="{{route('news-detail')}}"><img src="{{ asset('website/images/blog/details/recent-post/02.png') }}" alt="Blog_post" /></a>
-                </div>
-                <div class="content-area">
-                    <div class="user">
-                        <i class="fal fa-clock"></i>
-                        <span>15 Jan, 2023</span>
-                    </div>
-                    <a class="post-title" href="#">
-                        <h6 class="title">
-                            We would love to share a similar experience
-                        </h6>
-                    </a>
-                </div>
-            </div>
-            <!-- recent-post End -->
-            <!-- recent-post -->
-            <div class="recent-post-single">
-                <div class="thumbnail">
-                    <a href="{{route('news-detail')}}"><img src="{{ asset('website/images/blog/details/recent-post/03.png') }}" alt="Blog_post" /></a>
-                </div>
-                <div class="content-area">
-                    <div class="user">
-                        <i class="fal fa-clock"></i>
-                        <span>15 Jan, 2023</span>
-                    </div>
-                    <a class="post-title" href="#">
-                        <h6 class="title">
-                            We would love to share a similar experience
-                        </h6>
-                    </a>
-                </div>
-            </div>
-            <!-- recent-post End -->
+           
         </div>
     </div>
     <!-- single wized End -->
-    <!-- single wized start -->
-    <div class="rts-single-wized tags">
-        <div class="wized-header">
-            <h5 class="title">Popular Tags</h5>
-        </div>
-        <div class="wized-body">
-            <div class="tags-wrapper">
-                <a href="#">Services</a>
-                <a href="#">Business</a>
-                <a href="#">Growth</a>
-                <a href="#">Finance</a>
-                <a href="#">UI/UX Design</a>
-                <a href="#">Solution</a>
-                <a href="#">Speed</a>
-                <a href="#">Strategy</a>
-                <a href="#">Technology</a>
-            </div>
-        </div>
-    </div>
-    <!-- single wized End -->
+
     <!-- single wized start -->
     <div class="rts-single-wized contact">
         <div class="wized-header">

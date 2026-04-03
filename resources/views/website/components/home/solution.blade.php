@@ -22,7 +22,7 @@
                             <h5 class="title">Business Consultancy</h5>
                         </a>
                         <p class="disc">
-                            Creativity, and a commitment to quality to deliver solutions meet your unique needs.
+                            We provide strategic insights and expert guidance to help your business make informed decisions, optimize processes, and achieve growth.
                         </p>
                         <a href="{{ route('contact-us') }}" class="read-more">learn More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
@@ -41,7 +41,7 @@
                             <h5 class="title">Target Marketing</h5>
                         </a>
                         <p class="disc">
-                            Creativity, and a commitment to quality to deliver solutions meet your unique needs.
+                          Our team assists in identifying the right audience and creating effective marketing strategies to maximize product impact and market reach.
                         </p>
                         <a href="{{ route('contact-us') }}" class="read-more">Learn More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>
@@ -60,7 +60,7 @@
                             <h5 class="title">Investment Analysis</h5>
                         </a>
                         <p class="disc">
-                            Creativity, and a commitment to quality to deliver solutions meet your unique needs.
+                            We help evaluate financial feasibility, cost-benefit scenarios, and ROI to ensure your product development investments deliver maximum value.
                         </p>
                         <a href="{{ route('contact-us') }}" class="read-more">Learn More <i class="fa-sharp fa-regular fa-arrow-right"></i></a>
                     </div>

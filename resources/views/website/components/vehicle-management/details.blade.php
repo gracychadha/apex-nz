@@ -13,17 +13,15 @@
                     <h3 class="title">Vehicle Management & Fleet Tracking Solution</h3>
 
                     <p class="disc" align="justify">
-                        Our Vehicle Management System provides real-time monitoring,
-                        tracking, and control of vehicles using advanced GPS technology.
-                        Businesses can monitor fleet movement, driver behavior, fuel
-                        usage, and vehicle performance from a centralized dashboard.
+                        Our Vehicle Management Solution is designed to provide complete visibility, control, and
+                        efficiency across your fleet operations. Using advanced GPS tracking and smart analytics,
+                        businesses can monitor vehicle activity, improve driver performance, and optimize overall fleet
+                        management from a single platform.
                     </p>
 
                     <p class="disc" align="justify">
-                        Designed for logistics companies, transport operators, and
-                        commercial vehicle owners, the system improves operational
-                        efficiency, enhances safety, and reduces overall management
-                        costs through smart automation and analytics.
+                        With real-time insights and automated tools, this solution helps reduce operational costs,
+                        enhance safety, and ensure smooth day-to-day operations for fleets of all sizes.
                     </p>
 
                     <!-- FEATURES -->
@@ -34,8 +32,10 @@
                                 <img src="{{ asset('website/images/service/05.svg') }}">
                             </div>
                             <div class="inner-content">
-                                <h5 class="title-sm">Real-Time Vehicle Tracking</h5>
-                                <p class="disc" align="justify">Monitor live vehicle location anytime using web and mobile apps.</p>
+                                <h5 class="title-sm">Real-Time Tracking & Visibility</h5>
+                                <p class="disc" align="justify">Track the exact location of every vehicle in real time
+                                    through web and mobile applications. Stay updated with live movement, routes, and
+                                    trip status to ensure better coordination and faster decision-making.</p>
                             </div>
                         </div>
 
@@ -44,8 +44,10 @@
                                 <img src="{{ asset('website/images/service/06.svg') }}">
                             </div>
                             <div class="inner-content">
-                                <h5 class="title-sm">24/7 Monitoring Support</h5>
-                                <p class="disc" align="justify">Continuous tracking with instant alerts and notifications.</p>
+                                <h5 class="title-sm">Driver Safety &Behavior Monitoring</h5>
+                                <p class="disc" align="justify">Monitor driving patterns such as speed, harsh braking,
+                                    and idle time. Receive instant alerts for unsafe activities to improve driver
+                                    accountability and reduce accident risks.</p>
                             </div>
                         </div>
 
@@ -54,8 +56,10 @@
                                 <img src="{{ asset('website/images/service/07.svg') }}">
                             </div>
                             <div class="inner-content">
-                                <h5 class="title-sm">Driver Behavior Analysis</h5>
-                                <p class="disc">Track speed, stops, and driving patterns for safer operations.</p>
+                                <h5 class="title-sm">Operational Efficiency & Cost Control</h5>
+                                <p class="disc">Optimize routes, reduce fuel consumption, and minimize unnecessary
+                                    downtime. The system helps businesses lower operational expenses while improving
+                                    productivity and service quality.</p>
                             </div>
                         </div>
 
@@ -64,187 +68,43 @@
                                 <img src="{{ asset('website/images/service/08.svg') }}">
                             </div>
                             <div class="inner-content">
-                                <h5 class="title-sm">Cost & Fuel Optimization</h5>
-                                <p class="disc">Reduce fuel expenses with intelligent route monitoring.</p>
+                                <h5 class="title-sm">Alerts, Reports & Insights</h5>
+                                <p class="disc">Get instant notifications for key events like over-speeding, ignition
+                                    status, and geo-fence breaches. Access detailed reports and analytics to make
+                                    informed business decisions.</p>
                             </div>
                         </div>
 
                     </div>
 
                     <p class="disc mt--30" align="justify">
-                        The vehicle management platform integrates advanced reporting,
-                        route playback, geo-fencing alerts, and maintenance reminders,
-                        helping businesses maintain full visibility and operational
-                        control over their fleets.
+                        The platform also includes features like route playback, maintenance reminders, and geo-fencing,
+                        ensuring complete control over fleet operations. It is ideal for logistics companies, transport
+                        businesses, delivery services, and commercial vehicle owners.
                     </p>
 
                     <!-- PROCESS -->
-                    <h3 class="title mt--50">2 Simple Steps to Get Started</h3>
+                    <h3 class="title mt--50">How It Works</h3>
 
                     <p class="disc " align="justify">
-                        Our system is easy to deploy and requires minimal setup.
-                        From installation to live monitoring, businesses can start
-                        tracking vehicles quickly and efficiently.
+                       <b> 1. Device Installation & Setup</b>
+                        GPS tracking devices are installed in vehicles and configured for network connectivity. The
+                        system is activated and ready for real-time tracking.
+                        <br>
+                       <b> 2. Monitor & Manage Fleet</b>
+                        Access a centralized dashboard to track vehicles, analyze reports, receive alerts, and manage
+                        operations efficiently from anywhere.
+
                     </p>
 
-                    <div class="single-step-service-details">
-                        <div class="thumbnail">
-                            <img src="{{ asset('website/images/service/12.webp') }}">
-                        </div>
-                        <div class="inner">
-                            <h5 class="title-f">Install GPS Tracker Device</h5>
-                        </div>
-                        <div class="feature">
-                            <p class="single">Professional Installation</p>
-                            <p class="single">Device Configuration</p>
-                            <p class="single">SIM Network Setup</p>
-                            <p class="single">System Activation</p>
-                        </div>
-                    </div>
+                 
 
-                    <div class="single-step-service-details">
-                        <div class="thumbnail">
-                            <img src="{{ asset('website/images/service/13.webp') }}">
-                        </div>
-                        <div class="inner">
-                            <h5 class="title-f">Monitor & Manage Vehicles</h5>
-                        </div>
-                        <div class="feature">
-                            <p class="single">Live Dashboard Access</p>
-                            <p class="single">Mobile App Tracking</p>
-                            <p class="single">Reports & Analytics</p>
-                            <p class="single">Instant Alerts</p>
-                        </div>
-                    </div>
-
-                    <!-- FAQ -->
-                    <h3 class="title mt--50">Popular Questions</h3>
-
-                    <p class="disc" align="justify">
-                        Learn more about how our vehicle management system works and
-                        how it helps improve fleet efficiency and safety.
-                    </p>
-
-                    <div class="accordion faq-wrapper-inner-page mt--50" id="accordionExample">
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne">
-                                    What services do you provide in vehicle management?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show">
-                                <div class="accordion-body">
-                                    We provide GPS tracking, fleet monitoring, geo-fencing,
-                                    route playback, driver behavior reports, and vehicle safety alerts.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo">
-                                    Can I monitor vehicles from mobile?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse">
-                                <div class="accordion-body">
-                                    Yes, vehicles can be monitored through Android, iOS,
-                                    and web platforms with real-time updates.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree">
-                                    Is this system suitable for fleets?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse">
-                                <div class="accordion-body">
-                                    Absolutely. The system is designed for logistics companies,
-                                    transport fleets, taxis, and commercial vehicles.
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
+                  
                 </div>
             </div>
 
             <!-- RIGHT SIDEBAR -->
-            <div
-                class="col-xl-4 col-md-12 col-sm-12 col-12 mt_lg--60 pl--50 pl_lg--0 pl_md--0 pl-lg-controler pl_sm--0 mt-service-shorter">
-
-                <!-- Categories -->
-                <div class="rts-single-wized Categories service">
-                    <div class="wized-header">
-                        <h5 class="title">Categories</h5>
-                    </div>
-
-                    <div class="wized-body">
-                        <ul class="single-categories">
-                            <li><a href="#">Vehicle Tracking <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <ul class="single-categories">
-                            <li><a href="#">Fleet Management <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <ul class="single-categories">
-                            <li><a href="#">GPS Installation <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <ul class="single-categories">
-                            <li><a href="#">Fuel Monitoring <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                        <ul class="single-categories">
-                            <li><a href="#">Vehicle Security <i class="far fa-long-arrow-right"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <!-- Download -->
-                {{-- <div class="rts-single-wized download service">
-                    <div class="wized-header">
-                        <h5 class="title">Download</h5>
-                    </div>
-
-                    <div class="wized-body">
-                        <div class="single-download-area">
-                            <img src="{{ asset('website/images/service/icon/01.svg') }}">
-                            <div class="mid">
-                                <h6 class="title">Service Brochure</h6>
-                                <span>Download</span>
-                            </div>
-                            <a class="rts-btn btn-primary" href="#"><i class="fal fa-arrow-right"></i></a>
-                        </div>
-
-                        <div class="single-download-area">
-                            <img src="{{ asset('website/images/service/icon/02.svg') }}">
-                            <div class="mid">
-                                <h6 class="title">Product Catalogue</h6>
-                                <span>Download</span>
-                            </div>
-                            <a class="rts-btn btn-primary" href="#"><i class="fal fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div> --}}
-
-                <!-- Contact -->
-                <div class="rts-single-wized contact">
-                    <div class="wized-header">
-                        <a href="#"><img src="{{ asset('website/images/logo/apex-white.png') }}"
-                                alt="Business_logo" /></a>
-                    </div>
-                    <div class="wized-body">
-                        <h5 class="title">Need Help? We Are Here To Help You</h5>
-                        <a class="rts-btn btn-primary btn-white" href="{{ route('contact-us') }}">Contact Us</a>
-                    </div>
-                </div>
-
-            </div>
+           @include('website.components.vehicle-management.sidebar')
         </div>
     </div>
 </div>

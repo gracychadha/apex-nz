@@ -19,33 +19,32 @@
                     <div class="title-style-two left">
                         <span class="bg-content">About Us</span>
                         <span class="pre">More About Us</span>
-                        <h2 class="title rts-text-anime-style-1">Smart GPS Tracking Solutions <br> for Total Control &
-                            Security
+                        <h2 class="title rts-text-anime-style-1">Complete GPS Tracking Solutions <br>for Your Vehicles
+                            and Assets
                         </h2>
                     </div>
                     <div class="about-between-wrapper">
                         <p class="disc">
-                            We provide advanced GPS tracking systems designed to give you complete visibility and
-                            control over your vehicles, assets, and operations. Whether you're managing a fleet or
-                            tracking personal vehicles, our technology ensures real-time monitoring, enhanced safety,
-                            and smarter decision-making.
+                            We provide reliable GPS tracking systems that give you full control and visibility over your
+                            vehicles, fleets, and assets. Our solutions make it easy to monitor in real time, improve
+                            safety, and manage operations efficiently.
                             <br>
-                            With powerful tracking software, instant alerts, and detailed analytics, we help businesses
-                            reduce costs, improve efficiency, and increase security — all from a single, easy-to-use
-                            platform.
+                            Our platform provides instant alerts and detailed reports, enabling businesses to lower
+                            costs, increase productivity, and make informed decisions, wherever they are.
+
                         </p>
                         <div class="check-wrapper-area">
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check"></i>
-                                <p>24/7 Live Tracking & Customer Support</p>
+                                <p>Real-Time Tracking 24/7 </p>
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check"></i>
-                                <p>Empowering Businesses with Smart GPS Intelligence</p>
+                                <p>Instant Alerts & Notifications </p>
                             </div>
                             <div class="single-check">
                                 <i class="fa-solid fa-circle-check"></i>
-                                <p>Instant Alerts & Notifications</p>
+                                <p>Customer Support You Can Rely On</p>
                             </div>
                         </div>
                     </div>
@@ -55,9 +54,13 @@
                                 <i class="fa-sharp fa-regular fa-phone-volume"></i>
                             </div>
                             <div class="information">
-                                <span>Call us anytime</span>
-                                <a href="#">
-                                    <h6 class="title">+256 56778.5678</h6>
+                                <span>Call us anytime (NZ)</span>
+                                <a href="tel:+6421382286">
+                                    <h6 class="title">+64 213 82286</h6>
+                                </a>
+                                 <span>Call us anytime (FIJI)</span>
+                                <a href="tel:+6798792819">
+                                    <h6 class="title">+67 987 92819</h6>
                                 </a>
                             </div>
                         </div>

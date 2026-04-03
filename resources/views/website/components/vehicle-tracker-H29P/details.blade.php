@@ -27,12 +27,11 @@
 
                     <h4 class="title">H29P – 4G GPS Vehicle Tracker</h4>
 
-                    <p class="disc">
-                        The H29P 4G GPS Tracker is a compact and high-performance vehicle
-                        tracking device designed for real-time monitoring and enhanced
-                        vehicle security. Built with advanced 4G LTE technology, it provides
-                        accurate live tracking, intelligent alerts, and reliable performance
-                        for personal vehicles and fleet management systems.
+                    <p class="disc" align="justify">
+                        The H29P 4G GPS Tracker is a smart and compact device built to help you track and protect your
+                        vehicles with ease. It provides real-time location updates, quick alerts, and stable performance
+                        using fast 4G connectivity. Designed for both personal use and fleet management, it helps you
+                        stay informed, improve safety, and manage your vehicles more efficiently.
                     </p>
 
                     <div class="row g-4">
@@ -90,24 +89,16 @@
             <div class="col-lg-12">
                 <div class="project-details-content-bottom">
 
-                    <p class="disc">
-                        The H29P tracker allows users to monitor vehicle location in
-                        real-time using mobile applications and web platforms. It
-                        supports geo-fencing alerts, route history playback, ignition
-                        detection, and overspeed notifications to improve vehicle safety
-                        and operational efficiency.
+                    <p class="disc" align="justify">
+                       The H29P 4G GPS Tracker is designed to help you monitor and manage your vehicles with ease. It provides accurate real-time location tracking, trip history details, and smart alerts such as geo-fencing, ignition status, and over-speeding notifications to keep your vehicles safe and under control.
                     </p>
 
                     <p class="bold">
-                        “Reliable tracking powered by 4G connectivity — giving you total
-                        control and visibility over your vehicles anytime, anywhere.”
+                        “Powered by fast 4G technology, ensuring reliable tracking and complete control of your vehicles anytime, anywhere.”
                     </p>
 
-                    <p class="disc">
-                        Designed for logistics companies, taxis, school buses, rental
-                        fleets, and personal vehicles, the H29P ensures stable signal
-                        performance and secure data transmission for modern tracking
-                        requirements.
+                    <p class="disc" align="justify">
+                       With fast and stable 4G connectivity, the device ensures smooth performance and reliable data updates at all times. Whether for business fleets or personal vehicles, the H29P offers a simple and effective solution for better tracking, improved security, and efficient vehicle management.
                     </p>
 
                 </div>
@@ -124,7 +115,7 @@
                             <img src="{{ asset('website/images/portfolio/icons/05.svg') }}">
                         </div>
                         <h2 class="counter title"><span class="odometer" data-count="1500">00</span>+</h2>
-                        <p class="disc">Vehicles actively tracked worldwide</p>
+                        <p class="disc" align="justify">Vehicles actively tracked worldwide</p>
                     </div>
 
                     <div class="single-counter-up-area with-pl">
@@ -132,7 +123,7 @@
                             <img src="{{ asset('website/images/portfolio/icons/06.svg') }}">
                         </div>
                         <h2 class="counter title"><span class="odometer" data-count="120">00</span>+</h2>
-                        <p class="disc">Fleet businesses using H29P devices</p>
+                        <p class="disc" align="justify">Fleet businesses using H29P devices</p>
                     </div>
 
                     <div class="single-counter-up-area with-pl">
@@ -140,7 +131,7 @@
                             <img src="{{ asset('website/images/portfolio/icons/07.svg') }}">
                         </div>
                         <h2 class="counter title"><span class="odometer" data-count="98">00</span>+</h2>
-                        <p class="disc">Tracking accuracy success rate</p>
+                        <p class="disc" align="justify">Tracking accuracy success rate</p>
                     </div>
 
                     <div class="single-counter-up-area with-pl b-n">
@@ -148,7 +139,7 @@
                             <img src="{{ asset('website/images/portfolio/icons/08.svg') }}">
                         </div>
                         <h2 class="counter title"><span class="odometer" data-count="24">00</span>+</h2>
-                        <p class="disc">24/7 continuous monitoring support</p>
+                        <p class="disc" align="justify">24/7 continuous monitoring support</p>
                     </div>
 
                 </div>
@@ -163,43 +154,42 @@
 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
-                                    What Features Does H29P Tracker Offer?
+                                <button class="accordion-button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne">
+                                    What Features Does the H29P Tracker Offer?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show">
                                 <div class="accordion-body">
-                                    Real-time tracking, geo-fencing alerts, ignition monitoring,
-                                    route playback, and overspeed notifications ensure advanced
-                                    vehicle security.
+                                   The H29P provides real-time tracking, geo-fencing alerts, ignition monitoring, route playback, and over-speed notifications, ensuring enhanced vehicle security.
                                 </div>
                             </div>
                         </div>
 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-                                    Is H29P Compatible With Mobile Apps?
+                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo">
+                                   Is the H29P Compatible with Mobile Apps?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Yes, the tracker works with Android, iOS, and web tracking
-                                    platforms for live monitoring anytime.
+                                    Yes, the tracker is compatible with Android, iOS, and web platforms, allowing real-time monitoring anytime, anywhere.
                                 </div>
                             </div>
                         </div>
 
                         <div class="accordion-item">
                             <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">
-                                    Where Can This Tracker Be Used?
+                                <button class="accordion-button collapsed" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree">
+                                   Where Can This Tracker Be Used?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse">
                                 <div class="accordion-body">
-                                    Suitable for cars, taxis, logistics fleets, school buses,
-                                    and commercial vehicles requiring continuous monitoring.
+                                    The H29P is suitable for cars, taxis, logistics fleets, school buses, and other commercial vehicles that require continuous monitoring.
                                 </div>
                             </div>
                         </div>
@@ -208,28 +198,7 @@
                 </div>
             </div>
 
-            <!-- NEXT / PREVIOUS -->
-            <div class="col-lg-12">
-                <div class="next-prev-project-wrapper">
-
-                    <div class="single-next-prev-wrapper">
-                        <img src="{{ asset('website/images/portfolio/32.webp') }}">
-                        <div class="info">
-                            <span>GPS Tracker</span>
-                            <p>H29P – Smart 4G Tracking Solution</p>
-                        </div>
-                    </div>
-
-                    <div class="single-next-prev-wrapper last">
-                        <div class="info">
-                            <span>GPS Tracker</span>
-                            <p>Explore Advanced Vehicle Monitoring Devices</p>
-                        </div>
-                        <img src="{{ asset('website/images/portfolio/32.webp') }}">
-                    </div>
-
-                </div>
-            </div>
+          
 
         </div>
     </div>

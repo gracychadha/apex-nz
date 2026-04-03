@@ -5,7 +5,7 @@
                 <div class="title-area-left center">
                     <span class="bg-title"> Tracker</span>
                     <h1 class="title">
-                        GS10G - 4G 8PIN Tracker
+                        S20 - 4G Portable 6000MAH
                     </h1>
                 </div>
             </div>

@@ -6,7 +6,7 @@
                     <div class="banner-content">
                         <span class="pre-title"><img src="{{ asset('website/images/banner/icon/05.svg') }}" alt=""> Think. Track. Secure. Optimize.</span>
                         <h1 class="title">Your Trusted GPS  <br>  Manufacturer</h1>
-                        <p class="desc">Apex is a leading GPS tracker manufacturer delivering reliable,<br> real-time tracking solutions for vehicles, assets, and fleets. </p>
+                        <p class="desc">Apex stands as a trusted leader in GPS tracking technology, offering advanced, reliable, and real-time solutions for vehicles, assets, and fleet operations.</p>
                         <div class="banner-btn-area">
                             <a href="#" class="rts-btn btn-primary">Get Started</a>
                             <a href="#" class="rts-btn btn-primary two">Our Service</a>

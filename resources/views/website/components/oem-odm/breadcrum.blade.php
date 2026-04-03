@@ -9,7 +9,7 @@
                                 <div class="title-area-left">
                                     <span class="bg-title ">OEM </span>
                                     <h1 class="title rts-text-anime-style-1">
-                                        OEM / ODM Service
+                                       OEM/ODM Services
                                     </h1>
                                     <p class="disc" align="justify">
                                         OEM/ODM services provide reliable product development through coordinated

@@ -22,9 +22,10 @@
                     <div class="inner">
                         <h4 class="title">Car Sales & Dealership</h4>
                         <p class="disc">
-                            We provide a wide range of new and pre-owned cars with verified quality,
-                            competitive pricing, and complete documentation support to ensure a
-                            smooth and reliable vehicle purchasing experience.
+                            We offer a carefully selected range of new and certified pre-owned vehicles designed to meet
+                            your needs. Our focus is on quality, transparency, and customer satisfaction. With
+                            competitive pricing and full support for all documentation, we make your vehicle purchase
+                            smooth and reliable — giving you confidence every step of the way.
                         </p>
                     </div>
                 </div>
@@ -37,9 +38,9 @@
                     <div class="inner">
                         <h4 class="title">Tractor Sales Solutions</h4>
                         <p class="disc">
-                            Our tractor solutions are designed for modern farming needs, offering
-                            powerful and fuel-efficient tractors along with expert guidance to help
-                            farmers choose the right machinery.
+                            We provide modern tractors built for efficiency, power, and durability. Designed to meet the
+                            needs of today’s farmers, our solutions come with expert guidance to help you choose the
+                            right machinery, increase productivity, and make farming easier and more cost-effective.
                         </p>
                     </div>
                 </div>
@@ -52,9 +53,10 @@
                     <div class="inner">
                         <h4 class="title">Genuine Spare Parts</h4>
                         <p class="disc">
-                            We supply high-quality genuine spare parts for cars and tractors,
-                            ensuring durability, performance, and long-term reliability for all
-                            types of vehicles and agricultural equipment.
+                            We provide high-quality genuine spare parts for cars and tractors, ensuring durability and
+                            reliable performance. Our parts meet strict quality standards, helping your vehicles and
+                            agricultural equipment run smoothly. With expert guidance, we make it easy to choose the
+                            right components, reduce maintenance costs, and improve efficiency.
                         </p>
                     </div>
                 </div>
@@ -67,9 +69,10 @@
                     <div class="inner">
                         <h4 class="title">Maintenance & Repair Services</h4>
                         <p class="disc">
-                            Our skilled technicians provide professional maintenance and repair
-                            services to keep vehicles running efficiently with advanced tools
-                            and trusted service practices.
+                            We deliver expert maintenance and repair services to keep your vehicles and machinery in top
+                            condition. Our skilled technicians use advanced tools and proven techniques to ensure safe,
+                            efficient, and long-lasting performance, helping you minimize downtime and maximize
+                            productivity.
                         </p>
                     </div>
                 </div>
@@ -82,14 +85,14 @@
                     <div class="inner">
                         <h4 class="title">Agricultural Equipment Parts</h4>
                         <p class="disc">
-                            From tractor components to farming equipment accessories, we provide
-                            dependable parts that enhance productivity and support modern
-                            agricultural operations.
+                            We provide durable and dependable parts for tractors and agricultural machinery, helping
+                            farmers work efficiently and keep their equipment running smoothly. Our solutions are
+                            designed to support modern farming operations and maximize productivity in the field.
                         </p>
                     </div>
                 </div>
             </div>
-           
+
         </div>
     </div>
 </div>

@@ -5,7 +5,7 @@
                 <div class="title-area-left center">
                     <span class="bg-title"> Tracker</span>
                     <h1 class="title">
-                        GS10G - 4G 8PIN Tracker
+                        GS300 - 4G GPS Tracker
                     </h1>
                 </div>
             </div>

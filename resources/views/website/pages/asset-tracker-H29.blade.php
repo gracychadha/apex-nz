@@ -1,5 +1,5 @@
 @extends('website.layout.app')
-@section('title', 'Asset Tracker H29P - Apex GPS Tracker Manufacturer')
+@section('title', 'GS300 - 4G GPS Tracker - Apex GPS Tracker Manufacturer')
 @section('content')
 
     {{-- breadcrumb --}}

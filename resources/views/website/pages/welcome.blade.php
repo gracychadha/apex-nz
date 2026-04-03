@@ -17,7 +17,7 @@
 {{-- industry --}}
 @include('website.components.home.industries-serve')
 {{-- team --}}
-@include('website.components.home.team')
+{{-- @include('website.components.home.team') --}}
 {{-- appointment form --}}
 @include('website.components.home.appointment-form')
 {{-- case study -> product --}}
