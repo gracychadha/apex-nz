@@ -69,7 +69,7 @@ class LeadController extends Controller
         ]);
 
         Mail::to($Lead->email)->send(new LeadMail($Lead));
-        Mail::to('info@apex.com')->send(new LeadMail($Lead));
+        Mail::to('info@apexcartrack.co.nz')->send(new LeadMail($Lead));
         return back()->with('success', 'Your lead has been submitted successfully!');
     }
 }

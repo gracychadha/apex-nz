@@ -23,10 +23,10 @@
                                 <tr>
                                     <!-- LOGO LEFT -->
                                     <td width="50%" align="left" style="vertical-align:middle;">
-                                       <a href="https://apex.vibrantick.org/" target="_blank">
-                                         <img src="https://apex.vibrantick.org/website/images/logo/apex.png"
-                                            width="150" alt="Apex Logo" style="display:block;">
-                                       </a>
+                                        <a href="https://apex.vibrantick.org/" target="_blank">
+                                            <img src="https://apex.vibrantick.org/website/images/logo/apex.png"
+                                                width="150" alt="Apex Logo" style="display:block;">
+                                        </a>
                                     </td>
 
                                     <!-- CONTACT INFO RIGHT -->
@@ -38,10 +38,14 @@
                                             </tr>
 
                                             <tr>
-                                                <td><a href="tel:3479052" target="_blank">📞 3479052</a></td>
+                                                <td><a href="tel:+6421382286" target="_blank">📞 +64 213 82286</a></td>
                                             </tr>
                                             <tr>
-                                                <td><a href="mailto:info@apex.com" target="_blank">✉️ info@apex.com</a></td>
+                                                <td><a href="tel:+6798792819" target="_blank">📞 +67 987 92819</a></td>
+                                            </tr>
+                                            <tr>
+                                                <td><a href="mailto:info@apexcartrack.co.nz" target="_blank">✉️
+                                                        info@apexcartrack.co.nz</a></td>
                                             </tr>
                                         </table>
                                     </td>
@@ -59,7 +63,7 @@
                             </span>
                             <br>
                             <span style="font-size:18px;">
-                                We have successfully received your Contact request. 
+                                We have successfully received your Contact request.
                             </span>
                         </td>
                     </tr>
@@ -74,7 +78,8 @@
 
                                 <!-- Header Row -->
                                 <tr style="background:#e8eef9; font-weight:bold; color:#2e3f5a;">
-                                    <td style="border-bottom:1px solid #d0d7e6; font-size:18px; text-transform: uppercase;" colspan="3">USER'S INFORMATION</td>
+                                    <td style="border-bottom:1px solid #d0d7e6; font-size:18px; text-transform: uppercase;"
+                                        colspan="3">USER'S INFORMATION</td>
 
                                 </tr>
                                 <!-- Row 2 -->
@@ -89,10 +94,10 @@
                                     <td style="border-bottom:1px solid #d0d7e6;">Email</td>
                                     <td style="border-bottom:1px solid #d0d7e6;">{{ $lead->email }}</td>
                                 </tr>
-                               
+
 
                                 <!-- Row 1 -->
-                                <tr >
+                                <tr>
                                     <td style="border-bottom:1px solid #d0d7e6;">Product</td>
                                     <td style="border-bottom:1px solid #d0d7e6;">{{ $lead->product }}
                                     </td>
@@ -102,7 +107,7 @@
                                 <tr style="background:#e8eef9; font-weight:bold; color:#2e3f5a;">
                                     <td style="border-bottom:1px solid #d0d7e6;">Received At</td>
                                     <td style="border-bottom:1px solid #d0d7e6;">
-                                       {{ $lead->created_at->format('d M Y h:i A') }}
+                                        {{ $lead->created_at->format('d M Y h:i A') }}
                                     </td>
                                 </tr>
 
@@ -135,7 +140,7 @@
                         </td>
                     </tr>
 
-                   
+
 
                     <!-- Footer -->
                     <tr>

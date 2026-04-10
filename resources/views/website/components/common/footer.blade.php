@@ -25,8 +25,7 @@
                         <ul class="links">
                             <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Vehicle </a></li>
                             <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Asset</a></li>
-                            <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Personal</a></li>
-                            <li><a href="{{ route('vehicle-management') }}"><i class="far fa-arrow-right"></i> Accessories</a></li>
+                           
                         </ul>
                         <ul class="links margin-left-70">
                             <li><a href="{{ route('vehicle-tracker-gs105') }}"><i class="far fa-arrow-right"></i> Vehicle Solution</a></li>

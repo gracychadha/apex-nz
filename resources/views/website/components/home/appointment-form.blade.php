@@ -41,7 +41,8 @@
                         </div>
                         <div class="main-contact">
                             <span>Call Us 24/7</span>
-                            <a href="tel:+6421382286">+64 213 82286</a>
+                            <a href="tel:+6421382286">+64 213 82286</a><br>
+                            <a href="tel:+6798792819">+67 987 92819</a>
                         </div>
                     </div>
                     <div class="signle-contact">
@@ -50,7 +51,7 @@
                         </div>
                         <div class="main-contact">
                             <span>Work with us</span>
-                            <a href="#">info@apex.com</a>
+                            <a href="#">info@apexcartrack.co.nz</a>
                         </div>
                     </div>
                     <div class="signle-contact">
@@ -59,7 +60,10 @@
                         </div>
                         <div class="main-contact">
                             <span>Our Location</span>
-                            <a href="#">Apex Cartrack , New Zealand , Fiji , Australia , USA</a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Apex+Cartrack+New+Zealand+Fiji+Australia+USA"
+                                target="_blank">
+                                Apex Cartrack , <br>New Zealand , Fiji , Australia , USA
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -110,7 +114,7 @@
                         <li>{{ $error }}</li>
                     @endforeach
                 </ul>
-                </div >
+                        </div >
         @endif
     </script>
 

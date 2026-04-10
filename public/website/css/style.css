@@ -14350,7 +14350,7 @@ section.main-wrapper-sticky .sticky-statement.narrow .left-side img {
     justify-content: center;
     align-items: center;
     padding: 8px 16px;
-    border: 1px solid var(--color-red);
+    /* border: 1px solid var(--color-red); */
     font-size: 16px;
     color: var(--color-red);
     display: flex;

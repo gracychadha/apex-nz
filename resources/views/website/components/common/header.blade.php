@@ -11,7 +11,7 @@
                         <div class="left">
                             <div class="mail">
                                 <a href="#"><i class="fal fa-envelope"></i>
-                                    info@apex.com</a>
+                                    info@apexcartrack.co.nz</a>
                             </div>
                             <div class="mail">
                                 <a href="tel:+6421382286"><i class="fa-solid fa-phone-flip"></i>+64 213 82286</a>
@@ -81,7 +81,8 @@
                                                                         Asset Tracker</p>
                                                                 </li>
                                                                 <li><a href="{{ route('asset-tracker-S20-4G') }}"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>S20 - 4G Portable 6000MAH</a>
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>S20
+                                                                        - 4G Portable 6000MAH</a>
                                                                 </li>
                                                                 <li><a href="{{ route('asset-tracker-GS300-4G') }}"><i
                                                                             class="fa-sharp fa-regular fa-chevron-right"></i>GS300
@@ -100,9 +101,10 @@
                                                                     </p>
                                                                 </li>
                                                                 <li><a href="{{ route('video-tracker-h18p') }}"><i
-                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H18P - 4G ADAS+DMS</a>
+                                                                            class="fa-sharp fa-regular fa-chevron-right"></i>H18P
+                                                                        - 4G ADAS+DMS</a>
                                                                 </li>
-                                                               
+
 
 
                                                             </ul>

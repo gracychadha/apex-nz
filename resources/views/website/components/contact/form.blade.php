@@ -9,7 +9,8 @@
             </div>
             <div class="info-wrapper">
               <span>Call Us 24/7</span>
-             <a href="tel:+6421382286">+64 213 82286</a>
+              <a href="tel:+6421382286">+64 213 82286</a><br>
+              <a href="tel:+6798792819">+67 987 92819</a>
             </div>
           </div>
           <div class="single-contact-info">
@@ -18,7 +19,7 @@
             </div>
             <div class="info-wrapper">
               <span>Work with us</span>
-              <a href="mailto:info@apex.com">info@apex.com</a>
+              <a href="mailto:info@apexcartrack.co.nz">info@apexcartrack.co.nz</a>
             </div>
           </div>
           <div class="single-contact-info">
@@ -27,7 +28,10 @@
             </div>
             <div class="info-wrapper">
               <span>Our Location</span>
-               <a href="#">Apex Cartrack , New Zealand , Fiji , Australia , USA</a>
+              <a href="https://www.google.com/maps/search/?api=1&query=Apex+Cartrack+New+Zealand+Fiji+Australia+USA"
+                target="_blank">
+                Apex Cartrack , <br> New Zealand , Fiji , Australia , USA
+              </a>
             </div>
           </div>
         </div>
@@ -47,18 +51,22 @@
             <input name="name" type="text" placeholder="Your Name" required>
             <input type="email" name="email" placeholder="Johndoe@gmail.com" required>
             <input type="tel" name="phone" placeholder="+256 2145 2156">
-            <input type="text" name="product" placeholder="Ps tracker">
-
+            <!-- <input type="text" name="product" placeholder="Ps tracker"> -->
+            <select name="product">
+              <option value="">Select Product</option>
+              <option value="vehicle_tracker">Vehicle Tracker</option>
+              <option value="asset_tracker">Asset Tracker</option>
+            </select>
             <textarea name="message" placeholder="Message"></textarea>
 
             <!-- captcha token -->
             <input type="hidden" name="g-recaptcha-response" id="recaptcha-token">
-           
+
             <button class="rts-btn btn-primary" type="submit">
               Get In Touch
             </button>
           </form>
-        
+
         </div>
       </div>
     </div>
